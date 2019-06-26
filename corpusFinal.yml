@@ -1,0 +1,4046 @@
+---
+text    :  في ذات يوم اجتاحت ال حارة معركة شاملة
+axiom   : sv
+expected: 1
+---
+text    : اشترك في هَا من اتفق وجود هُمْ على أرض هَا من عاملين و عاطلين
+axiom   : sv
+expected: 1
+---
+text    : تضاربوا بال أيدي وال أرجل وال رؤوس
+axiom   : sv
+expected: 1
+---
+text    : اشتد ال قتال و تضخم
+axiom   : sv
+expected: 1
+---
+text    : وجدوا أرض ال حارة مغطاة بال قتلى وال محتضرين وال مصابين
+axiom   : sv
+expected: 1
+---
+text    : أمعن في هِ غزوا و فتحا
+axiom   : sv
+expected: 1
+---
+text    : ثل ال عروش
+axiom   : sv
+expected: 1
+---
+text    : هزم ال جيوش
+axiom   : sv
+expected: 1
+---
+text    : أسر ال ملوك
+axiom   : sv
+expected: 1
+---
+text    : استرق ال سادة ال عظماء
+axiom   : sv
+expected: 1
+---
+text    : ملأ يدي ه من ال سبي وال مال
+axiom   : sv
+expected: 1
+---
+text    : مازال ماضيا أمام ه
+axiom   : pn
+expected: 1
+---
+text    : يخرج من نَصْر إلى نصرٍ
+axiom   : sv
+expected: 1
+---
+text    : ينتقل من فوز إلى فَوز
+axiom   : sv
+expected: 1
+---
+text    : جيش ه ال مظفر يتبع ه فرحا مرحا
+axiom   : sv
+expected: 1
+---
+text    : تغري ه ال حرب بال حرب
+axiom   : sv
+expected: 1
+---
+text    : يطمع هُ ال ظفر بال ظفرِ
+axiom   : sv
+expected: 1
+---
+text    : اعتزمت ال سفر إلى ال واحات
+axiom   : sv
+expected: 1
+---
+text    : ذهبت إلى ال محطة
+axiom   : sv
+expected: 1
+---
+text    : ودع ني عدد كبير من طلبة ال مدرسة و مدرسي ها
+axiom   : sv
+expected: 1
+---
+text    : اختلط في هِ شعور ال فرح ال شديد بال حزن ال شديد
+axiom   : sv
+expected: 1
+---
+text    : ال علم شجرة
+axiom   : pn
+expected: 1
+---
+text    : ال عمل ثمرة ها
+axiom   : pn
+expected: 1
+---
+text    : بعد أيام انطلقت ال مرأة إلى ال حمام
+axiom   : sv
+expected: 1
+---
+text    : كان قد ربى هُ صغيرا
+axiom   : pn
+expected: 1
+---
+text    : لما رأى هُ ملوثا بال دم و هو مذعور طار عقل هُ
+axiom   : sv
+expected: 1
+---
+text    : أحكم في ه أعمال ي
+axiom   : sv
+expected: 1
+---
+text    : أتقن ب ه أشغال ي
+axiom   : sv
+expected: 1
+---
+text    : ل تجعل عقل ك صاحبا و مسيرا
+axiom   : sv
+expected: 1
+---
+text    : لا تشرع في أمر ب غير مشورة
+axiom   : sv
+expected: 1
+---
+text    : لما رأى هُ حمل على هِ
+axiom   : sv
+expected: 1
+---
+text    : لما سمع ال قرد صوت هَا أقبل على هَا مسرعا
+axiom   : sv
+expected: 1
+---
+text    : ما الذي كان يغذي كَ و يعشي كِ
+axiom   : pn
+expected: 1
+---
+text    : قالت بلى
+axiom   : sv
+expected: 1
+---
+text    : أسمع ال أصوات تتعالى من ال جدران
+axiom   : sv
+expected: 1
+---
+text    : في قاع ال أصوات أسمع مقطعا من ال سنفونية ال تاسعة
+axiom   : sv
+expected: 1
+---
+text    : أتحجر أمام ورقة من أوراق هِ
+axiom   : sv
+expected: 1
+---
+text    : عندما أقبل ال بعض من أتراب ي رحت ألعب و إياهم على سطح ال مدرسة
+axiom   : sv
+expected: 1
+---
+text    : تمتد ظلال نَا على مدى ال سطح
+axiom   : sv
+expected: 1
+---
+text    : كان نصف أبله و أكبر من ي
+axiom   : pn
+expected: 1
+---
+text    : عندما كاد يسجل إصابة هُ ال أولى تراجعت ب خفة و رشاقة
+axiom   : sv
+expected: 1
+---
+text    : كانت دولة ال علم عند ال عرب دولة رفيعة ال عماد
+axiom   : pn
+expected: 1
+---
+text    : يا رجاء ي في شدة ي و عزاء ي في شقوة ي
+axiom   : pn
+expected: 1
+---
+text    : أم ي و ما أحلى كِ يا أم ي
+axiom   : pn
+expected: 1
+---
+text    : ولدت نِي على بساط ال أوجاع
+axiom   : sv
+expected: 1
+---
+text    : ربيت نِي ب أيدي ال آلام
+axiom   : sv
+expected: 1
+---
+text    : رعيت نِي ب عيون ال أتعاب
+axiom   : sv
+expected: 1
+---
+text    : حميت نِي ب صدر ال مشقات
+axiom   : sv
+expected: 1
+---
+text    : ما أعق نِي
+axiom   : pn
+expected: 1
+---
+text    : ما أوفى كِ يا أم ي
+axiom   : pn
+expected: 1
+---
+text    : في ذات يوم جرت في ال بلد إشاعة
+axiom   : sv
+expected: 1
+---
+text    : في تلك ال ساعة كان محسن و عبدة في ال مقهى
+axiom   : pn
+expected: 1
+---
+text    : هذا يكفي لل قبض على ال بيت ب أكمل هِ
+axiom   : sv
+expected: 1
+---
+text    : ال إنسان يرشق أعشاش نَا بال حجارة
+axiom   : sv
+expected: 1
+---
+text    : ربما كان خيرا من نَا
+axiom   : pn
+expected: 1
+---
+text    : أنا الذي عرف ما في ال إنسان ل كثرة ملاحظات ي ل هُ
+axiom   : pn
+expected: 1
+---
+text    : أيقنت أن ال جشع هو الذي يجعل هُ لا يشبع و لا يستريح
+axiom   : sv
+expected: 1
+---
+text    : كان ل هُ خرص أحمر
+axiom   : pn
+expected: 1
+---
+text    : يذهب إلى حي هَا ال كثيف ال ضليل ال مبقع
+axiom   : sv
+expected: 1
+---
+text    : إن عصفورا يغني على فنن ل أنثى هُ
+axiom   : pn
+expected: 1
+---
+text    : إن سربا من ال غزلان سارحا في ال صحراء يبغي ال كلأ
+axiom   : pn
+expected: 1
+---
+text    : يصول في هَا ال هواء و يجول
+axiom   : sv
+expected: 1
+---
+text    : طاب في هَا سمر ال عشي
+axiom   : sv
+expected: 1
+---
+text    : تناثرت فوق رؤوس هِمْ ال مصابيح ال وهاجة
+axiom   : sv
+expected: 1
+---
+text    : ال مهرجون يبدون ألاعيب هُمْ على دقات ال طبول و أنغام ال ربابات
+axiom   : sv
+expected: 1
+---
+text    : من ال عاصمة بغداد طار ال غناء إلى ال أندلس
+axiom   : sv
+expected: 1
+---
+text    : قدم إلى هَا في أيام ال خليفة عبد ال رحمان
+axiom   : sv
+expected: 1
+---
+text    : أناخ ال جمل أمام سرادق كبير كال ثكنة
+axiom   : sv
+expected: 1
+---
+text    : كان سرادقا كبيرا منقسما إلى جناحين
+axiom   : pn
+expected: 1
+---
+text    : يفصل بين هُمَا بهو
+axiom   : sv
+expected: 1
+---
+text    : كان كل جناح يحوي غرفا متلاصقة من ال أقمشة ال وبرية
+axiom   : pn
+expected: 1
+---
+text    : غادرا طبرقة في رحلة عبر منطقة خمير
+axiom   : sv
+expected: 1
+---
+text    : كانت تقطع قرية موضوعة كال تاج على قمة جبل
+axiom   : pn
+expected: 1
+---
+text    : إن هُ حمار ذكي
+axiom   : pn
+expected: 1
+---
+text    : أي بلادة في ال حمار
+axiom   : pn
+expected: 1
+---
+text    : صحيح أن ال حصان أكثر جمالا
+axiom   : pn
+expected: 1
+---
+text    : كثيرا ما أغرقت في ال ضحك
+axiom   : sv
+expected: 1
+---
+text    : ينتمي ابن ماجد إلى أسرة ربابنة
+axiom   : sv
+expected: 1
+---
+text    : أبو هُ و جد هُ كلا هُمَا من ال ملاحين ال مشهورين
+axiom   : pn
+expected: 1
+---
+text    : كتب عدة مؤلفات في ال ملاحة ال بحرية و فنون ال بحر
+axiom   : sv
+expected: 1
+---
+text    : هذه ال مؤلفات كل هَا ذات أهمية كبيرة
+axiom   : pn
+expected: 1
+---
+text    : يذكرون ذلك ال حدث
+axiom   : sv
+expected: 1
+---
+text    : هناك من يقرؤون كل ما تصل إلى هِ أيدي هُمْ
+axiom   : pn
+expected: 1
+---
+text    : يقرؤون ال جرائد وال مجلات
+axiom   : sv
+expected: 1
+---
+text    : هذه قراءة لا تفيد درسا
+axiom   : pn
+expected: 1
+---
+text    : كانت حارة نَا مثالا لل أسر في ال قرون ال وسطى
+axiom   : pn
+expected: 1
+---
+text    : ليس في هَا من يقرأ كتابا حديثا مترجما
+axiom   : pn
+expected: 1
+---
+text    : كانت عربة ال قطار مكتظة ب جسم امرأة
+axiom   : pn
+expected: 1
+---
+text    : كانت ترتدي ثوبا أحمر
+axiom   : pn
+expected: 1
+---
+text    : ملأت ال عربة ب لحم هَا
+axiom   : sv
+expected: 1
+---
+text    : كان ال صبي يصرخ صراخا كأن ه بكاء
+axiom   : pn
+expected: 1
+---
+text    : لكن هُ ليس ب بكاء
+axiom   : pn
+expected: 1
+---
+text    : كل من في ال قطار تضايق من هذا ال صراخ
+axiom   : sv
+expected: 1
+---
+text    : لكن والدة هُ في تلك ال ساعة كانت مشغولة ال بال
+axiom   : pn
+expected: 1
+---
+text    : سار أمام هَا قصد ال رعي
+axiom   : sv
+expected: 1
+---
+text    : برزوا في أجمل هيئة و أكمل شارة
+axiom   : sv
+expected: 1
+---
+text    : خرج نا من تونس في أواخر شهر ذي ال قعدة
+axiom   : sv
+expected: 1
+---
+text    : في جد ي و جدة ي جمع الله ال نقيضين
+axiom   : sv
+expected: 1
+---
+text    : كان مهيب ال طلعة
+axiom   : pn
+expected: 1
+---
+text    : كانت قصيرة ال قامة
+axiom   : pn
+expected: 1
+---
+text    : كان ال عم محفوظ يدق دقا لطيفا
+axiom   : pn
+expected: 1
+---
+text    : إذا أفطر ترك لقمة أو لقمتين
+axiom   : sv
+expected: 1
+---
+text    : إذا أصبح جاءت عصفورتان
+axiom   : sv
+expected: 1
+---
+text    : لما رأى ذلك جزع
+axiom   : sv
+expected: 1
+---
+text    : ب ذنب من ك طارت عصفورتا كَ
+axiom   : sv
+expected: 1
+---
+text    : اعترى نِي دوار من تقليب ال صفحات
+axiom   : sv
+expected: 1
+---
+text    : أصاب نِي هبوط مألوف
+axiom   : sv
+expected: 1
+---
+text    : شعرت ب حاجة ماسة إلى فنجان من ال قهوة
+axiom   : sv
+expected: 1
+---
+text    : في ال غالب تكون أم ي ال بادئة
+axiom   : pn
+expected: 1
+---
+text    : برزت عروق وجه هِ خضراء تحت تأثير ال جهد
+axiom   : sv
+expected: 1
+---
+text    : اشترك في هَا من اتفق وجود هُمْ على أرض هَا من عاملين و عاطلين
+axiom   : sv
+expected: 1
+---
+text    : ملأ يدي ه من ال سبي وال مال
+axiom   : sv
+expected: 1
+---
+text    : لما رأى هُ ملوثا بال دم و هو مذعور طار عقل هُ
+axiom   : sv
+expected: 1
+---
+text    : عندما كاد يسجل إصابة هُ ال أولى تراجعت ب خفة و رشاقة
+axiom   : sv
+expected: 1
+---
+text    : كانت عربة ال قطار مكتظة ب جسم امرأة
+axiom   : pn
+expected: 1
+---
+text    : متى شاء ال إنسان كتب ب هِ
+axiom   : sv
+expected: 1
+---
+text    : متى شاء ترك هُ
+axiom   : sv
+expected: 1
+---
+text    : يجعل ه ال كاتب في كم هِ
+axiom   : sv
+expected: 1
+---
+text    : زاد شيئا من ال مداد على مقدار ال حاجة
+axiom   : sv
+expected: 1
+---
+text    : في أيام ال خريف كانت تجمع فضلات ال ثمار ال منسية في ال بساتين
+axiom   : pn
+expected: 1
+---
+text    : في ال شتاء كانت تغزل ال صوف و تخيط ال أثواب
+axiom   : pn
+expected: 1
+---
+text    : في تلك ال ليلة كانت ال مرأة وابنت ها جالستين قرب موقد
+axiom   : pn
+expected: 1
+---
+text    : فوق رأسي هِمَا سراج ضعيف يبعث أشعة هُ ال صفراء ال ضئيلة إلى قلب ال ظلمة
+axiom   : sv
+expected: 1
+---
+text    : ال مرأتان جالستان تسمعان ولولة ال ريح خارجا
+axiom   : pn
+expected: 1
+---
+text    : من وقت إلى آخر كانت ال صبية تقف
+axiom   : pn
+expected: 1
+---
+text    : في تلك ال دقيقة تحركت ال صبية فجأة
+axiom   : sv
+expected: 1
+---
+text    : هل سمعت يا أما هُ
+axiom   : sv
+expected: 1
+---
+text    : لا تزال ضاربة بين آفاق ال أرض وال سماء
+axiom   : sv
+expected: 1
+---
+text    : جَلَسْتُ فِي ال شُّرْفَةِ أَقْرَأُ قِصَّةً شَائِقَةً
+axiom   : sv
+expected: 1
+---
+text    : كَانَ أَبِ ي و أم ي فِي صَالَةِ ال شُّقَّةِ يَتَشَاوَرَانِ فِي شئون الْ بَيْتِ
+axiom   : pn
+expected: 1
+---
+text    : كُلٌّ مِنْ هُمَا يُمْسِكُ وَرَقَةً وَ قَلَمًا
+axiom   : sv
+expected: 1
+---
+text    : تَذَكَّرْتُ أَنَّ نَا فِي أَوَّلِ ال شَّهْرِ
+axiom   : sv
+expected: 1
+---
+text    : لَمْ أَكُنْ أَشْغَلُ بَالِ ي بِ أُمُورِ الْ بَيْتِ الْ مَالِيَّةِ
+axiom   : pn
+expected: 1
+---
+text    : أَنَا آخُذُ مَصْرُوفِ ي مِنْ وَالِدِ ي
+axiom   : sv
+expected: 1
+---
+text    : هُوَ يُعْطِي نِي مَا أُرِيدُ مِنْ نُقُودٍ أَثْنَاءَ ال شَّهْرِ
+axiom   : sv
+expected: 1
+---
+text    : بَعْدَ اِنْتِهَاءِ الْ مُنَاقَشَاتِ وَ الْ مُدَاوَلاَتِ ال طَّوِيلَةِ اِسْتَدْعَى نِي أَبِ ي
+axiom   : sv
+expected: 1
+---
+text    : سَلَّمَ نِي مَبْلَغًا مِنْ الْ مَالِ
+axiom   : sv
+expected: 1
+---
+text    : إِنَّ هُ مَصْرُوفِ ي لِ هَذَا ال شَّهْرِ
+axiom   : pn
+expected: 1
+---
+text    : هاجرت إلى عربة أخرى
+axiom   : sv
+expected: 1
+---
+text    : دخلت مطمئنا آمنا
+axiom   : sv
+expected: 1
+---
+text    : هنا لقيت شابا و شابة
+axiom   : sv
+expected: 1
+---
+text    : كانا يتكلمان همسا
+axiom   : pn
+expected: 1
+---
+text    : روميو يرفع يدي هِ إلى أعلى
+axiom   : sv
+expected: 1
+---
+text    : يمد يد هُ ال يسرى إلى ال أمام
+axiom   : sv
+expected: 1
+---
+text    : إن سر ال مهنة يمنع نِي من إفشاء أسرار زبائن ي
+axiom   : pn
+expected: 1
+---
+text    : س أقص على كُمْ قصة ي هذه
+axiom   : sv
+expected: 1
+---
+text    : إِنَّ ي كَثِيرًا مَا اُسْتُمِعَتْ إِلَى خَرَافَاتِ الْ عَجَائِزَ 
+axiom   : pn
+expected: 1
+---
+text    : كانت تروي ل هُمْ قصة ال ساحر الذي اختطف ابن ال سلطان
+axiom   : pn
+expected: 1
+---
+text    : طار ب هِ إلى ال قصر ال مسحور الذى ب هِ سبع غرف
+axiom   : sv
+expected: 1
+---
+text    : توعد هُ بال قتل
+axiom   : sv
+expected: 1
+---
+text    : ترك نَا متشوقين إلى ال قصة
+axiom   : sv
+expected: 1
+---
+text    : كانت خفيفة ال روح
+axiom   : pn
+expected: 1
+---
+text    : تماثلت إلى ال برء
+axiom   : sv
+expected: 1
+---
+text    : و انطفأت كل عوارض ال داء ال وقح
+axiom   : sv
+expected: 1
+---
+text    : خجلت ال مسكينة
+axiom   : sv
+expected: 1
+---
+text    : س أطلب من كَ شيئا أثمن ب كثير من كل هدية مادية
+axiom   : sv
+expected: 1
+---
+text    : اغرورقت عينا هَا دموعا
+axiom   : sv
+expected: 1
+---
+text    : ألقت ب نظر هَا إلى زجاج ال نافذة
+axiom   : sv
+expected: 1
+---
+text    : لم أتصور مثل هذه ال حياة
+axiom   : sv
+expected: 1
+---
+text    : لاً يَتْرُكَ نَا نُغَادَرُ الْ بَيْتَ حَتَى لِ لْحَمَامِ
+axiom   : sv
+expected: 1
+---
+text    : أتمم حديث كَ
+axiom   : sv
+expected: 1
+---
+text    : عاد إلى حديث ال مرأة
+axiom   : sv
+expected: 1
+---
+text    : كسا جدران هَا ال عنكبوت و ال غبار
+axiom   : sv
+expected: 1
+---
+text    : رأى هَا خارجة عن موضوع ال قصة
+axiom   : sv
+expected: 1
+---
+text    : هذه آخر إجازة ل ي
+axiom   : pn
+expected: 1
+---
+text    : في رأس ي صور عما حدث طوال ال عام
+axiom   : pn
+expected: 1
+---
+text    : أقبلت على ال ملاكمة أتعلم هَا ب سرعة
+axiom   : sv
+expected: 1
+---
+text    : إن كَ سريع ال حركة
+axiom   : pn
+expected: 1
+---
+text    : كنت مواظبا على ال تدرب
+axiom   : pn
+expected: 1
+---
+text    : لا أقصر في هِ
+axiom   : sv
+expected: 1
+---
+text    : انهلت على هِ غير عابئ أو مترفق
+axiom   : sv
+expected: 1
+---
+text    : الآن اطمأن قلب ي
+axiom   : sv
+expected: 1
+---
+text    : تبرمت ب هذه ال حال
+axiom   : sv
+expected: 1
+---
+text    : ترى من نوافذ هِ ال قلعة و ال أهرام
+axiom   : sv
+expected: 1
+---
+text    : عنيت ب أثاث هِ
+axiom   : sv
+expected: 1
+---
+text    : اقتنيت سيارة
+axiom   : sv
+expected: 1
+---
+text    : أقمت ب مفرد ي
+axiom   : sv
+expected: 1
+---
+text    : أقبل ابن ال بستاني على ال كوخ
+axiom   : sv
+expected: 1
+---
+text    : كنت متجها ب بصر ي نحو ال شمال
+axiom   : pn
+expected: 1
+---
+text    : حميدة شابة في ال عشرين
+axiom   : pn
+expected: 1
+---
+text    : هي رياضة تغذي جسم ال إنسان
+axiom   : sv
+expected: 1
+---
+text    : كانت أرض نَا أرضا في هَا ال فيلة وال أسود وال فهود
+axiom   : pn
+expected: 1
+---
+text    : فِي هذه ال ليلة  كان ال فتي يسير في ال طريق
+axiom   : pn
+expected: 1
+---
+text    : أصابت أب ي وعكة
+axiom   : sv
+expected: 1
+---
+text    : تخلف عن متجر هِ
+axiom   : sv
+expected: 1
+---
+text    : انقطع عن أسرة رزق كبير
+axiom   : sv
+expected: 1
+---
+text    : هيام أحسن من ي
+axiom   : pn
+expected: 1
+---
+text    : يَرِقُّ
+axiom   : sv
+expected: 1
+---
+text    : تزهُو
+axiom   : sv
+expected: 1
+---
+text    : تحلُمُ
+axiom   : sv
+expected: 1
+---
+text    : تَحِنُّ
+axiom   : sv
+expected: 1
+---
+text    : تذهبُ هَا
+axiom   : sv
+expected: 1
+---
+text    : اِنصَرَف
+axiom   : sv
+expected: 1
+---
+text    : لَزِمَ هُ
+axiom   : sv
+expected: 1
+---
+text    : ال حياةُ طيِّبَةٌ
+axiom   : pn
+expected: 1
+---
+text    : يملأْنَ هَا ماءً
+axiom   : sv
+expected: 1
+---
+text    : أنفُ هُ حادٌ
+axiom   : pn
+expected: 1
+---
+text    : يلينُ سعفُ هُ
+axiom   : sv
+expected: 1
+---
+text    : تَصْهَرُ هَا ال شمسُ
+axiom   : sv
+expected: 1
+---
+text    : تَثقُلُ ال عراجينُ
+axiom   : sv
+expected: 1
+---
+text    : أنَا أحبُّ ال صحراءَ
+axiom   : sv
+expected: 1
+---
+text    : حضرتُ ال مُصَلَّى
+axiom   : sv
+expected: 1
+---
+text    : انقَضَتْ ال خطبةُ
+axiom   : sv
+expected: 1
+---
+text    : أزَالَ معطَفَ هُ
+axiom   : sv
+expected: 1
+---
+text    : ظهرَتْ سواعِدُ هُ
+axiom   : sv
+expected: 1
+---
+text    : انطوَتْ قامتُ هُ
+axiom   : sv
+expected: 1
+---
+text    : نهضَ يزْفِرُ
+axiom   : sv
+expected: 1
+---
+text    : وَصَفَ فضلَ هُ
+axiom   : sv
+expected: 1
+---
+text    : آنتَصَفَ ال لَّيْلُ
+axiom   : sv
+expected: 1
+---
+text    : ال مرأتَانِ جالستَانِ
+axiom   : pn
+expected: 1
+---
+text    : قَالَتْ بِ سرعَةٍ
+axiom   : sv
+expected: 1
+---
+text    : أَصْغَتْ هُنْيهَةَ
+axiom   : sv
+expected: 1
+---
+text    : سَ أَرَى أبِ ى
+axiom   : sv
+expected: 1
+---
+text    : أَلِفتْ هُ نُفُوسُ هُمْ
+axiom   : sv
+expected: 1
+---
+text    : أَعْجَبَتْ هُ مِشْيَتُ هَا
+axiom   : sv
+expected: 1
+---
+text    : لَمْ يُحْسِنْ
+axiom   : sv
+expected: 1
+---
+text    : سلّمْتُ علَي هِ
+axiom   : sv
+expected: 1
+---
+text    : رَفَعْتُ عُنُقِ ي
+axiom   : sv
+expected: 1
+---
+text    : أَلْقَيْتُ نَظرَةً
+axiom   : sv
+expected: 1
+---
+text    : الْتَفَتَ إِلَي هِنَّ
+axiom   : sv
+expected: 1
+---
+text    : كُنْتُ أَسِيرُ
+axiom   : pn
+expected: 1
+---
+text    : ال مخبزةُ أمَامِ ى
+axiom   : pn
+expected: 1
+---
+text    : ال مَقهَى بِ جانِبِ ي
+axiom   : pn
+expected: 1
+---
+text    : اقْتَربْتُ مِنْ هَا
+axiom   : sv
+expected: 1
+---
+text    : كانُوا صَامِتِينَ
+axiom   : pn
+expected: 1
+---
+text    : اشْتَريْتُ جَريدَةً
+axiom   : sv
+expected: 1
+---
+text    : قَالَ لُقمَانُ
+axiom   : sv
+expected: 1
+---
+text    : جَالِسْ ال عُلَمَاءَ
+axiom   : sv
+expected: 1
+---
+text    : زَاحِمْ هُمْ بِ رُكبَتَيْ كَ
+axiom   : sv
+expected: 1
+---
+text    : إنَّ نِي شَاعِرٌ
+axiom   : pn
+expected: 1
+---
+text    : رَغِبَ فِي هَا
+axiom   : sv
+expected: 1
+---
+text    : لَطُفَ بِ هِ
+axiom   : sv
+expected: 1
+---
+text    :  وَثِقَ بِ هِ
+axiom   : sv
+expected: 1
+---
+text    : ذَهَبَ بِ هَا
+axiom   : sv
+expected: 1
+---
+text    : يَمُدُّ أُذُنَيْ هِ
+axiom   : sv
+expected: 1
+---
+text    : اِستَقَلَّآ ال سَّيَارَةَ
+axiom   : sv
+expected: 1
+---
+text    : مَاتَ أَبُو هَا
+axiom   : sv
+expected: 1
+---
+text    : لَمْ تَنْقَطِعْ
+axiom   : sv
+expected: 1
+---
+text    : اِشتَدَّ ضَربُ ال طُّبولِ
+axiom   : sv
+expected: 1
+---
+text    : تَعَالتْ أصواتُ ال مَزاميرِ
+axiom   : sv
+expected: 1
+---
+text    : توالتِ ال طلقاتُ ال ناريةُ
+axiom   : sv
+expected: 1
+---
+text    : إإِشْتَبَكَتِ ال زغاريدُ ب ال غناءِ
+axiom   : sv
+expected: 1
+---
+text    : أتمّ هُ ابن ه ال حكمُ
+axiom   : sv
+expected: 1
+---
+text    : كانَ فخمًا ضخمًا
+axiom   : pn
+expected: 1
+---
+text    : جبهتُ هُ عريضةٌ رحبةٌ
+axiom   : pn
+expected: 1
+---
+text    : منخرا هُ مليئانِ ب ال شعرِ
+axiom   : pn
+expected: 1
+---
+text    : أنْتَ ملقّنُ ال شعراء
+axiom   : pn
+expected: 1
+---
+text    : دم هَا رحيقٌ عذبٌ
+axiom   : pn
+expected: 1
+---
+text    : قلبُ هَا لذيذٌ شذيٌّ
+axiom   : pn
+expected: 1
+---
+text    : أُحِسُّ بِ بعْضِ ال دُّوَارِ
+axiom   : sv
+expected: 1
+---
+text    : سالَ لعابُ هُ جوعًا
+axiom   : sv
+expected: 1
+---
+text    : جاءَ فصلُ ال ربيعِ
+axiom   : sv
+expected: 1
+---
+text    : أنبَتَت ال روابي أعشابَ هَا
+axiom   : sv
+expected: 1
+---
+text    : صُلّيت صلاة ال عيدِ
+axiom   : sv
+expected: 1
+---
+text    : تقدَّمَ إلى ال جِهازِ
+axiom   : sv
+expected: 1
+---
+text    : حرَّكَ و جسَّ
+axiom   : sv
+expected: 1
+---
+text    : أزالَ ال عجلةَ ال معطوبةَ
+axiom   : sv
+expected: 1
+---
+text    : لا يؤثرُ فِي هِ
+axiom   : sv
+expected: 1
+---
+text    : اكتَنَفَ ال رَّمادُ جمرَ هُ
+axiom   : sv
+expected: 1
+---
+text    : رفَعَتِ ال وَالِدَةُ رأْسَ هَا
+axiom   : sv
+expected: 1
+---
+text    : تَعِيشُ ال مرأةُ بِ ال عمَلِ
+axiom   : sv
+expected: 1
+---
+text    : سَ آوي إلى فِراشِ ي
+axiom   : sv
+expected: 1
+---
+text    : يُفسِدُ علَي هِ أَمْرَ هُ
+axiom   : sv
+expected: 1
+---
+text    : اطمَأَنُوا إلى ذلِكَ
+axiom   : sv
+expected: 1
+---
+text    : طَمِعَ فِي تَعَلّمِ هَا
+axiom   : sv
+expected: 1
+---
+text    : بَقِيَ حَيْرانَ متردِّدًا
+axiom   : sv
+expected: 1
+---
+text    : أَعْطيتُ هُ رقْمَ تلِفُونِ ي
+axiom   : sv
+expected: 1
+---
+text    : سَ يُحدِّثُ نِي صَبَاحَ ال غَدِ
+axiom   : sv
+expected: 1
+---
+text    : لَمْ يَتصِلْ بِ ي
+axiom   : sv
+expected: 1
+---
+text    : وَقَفَ فِي ال بَاِب
+axiom   : sv
+expected: 1
+---
+text    : أُحِسُّ بِ نشْوَةٍ عارمةٍ
+axiom   : sv
+expected: 1
+---
+text    : اتكأْتُ علَى ال بِلّورِ
+axiom   : sv
+expected: 1
+---
+text    : ال حديقَةُ بِركَةٌ واسعةٌ
+axiom   : pn
+expected: 1
+---
+text    : يصُبُّ فِي هَا مَاءٌ
+axiom   : sv
+expected: 1
+---
+text    : تَحَمّسَ فِي حَديثِ هِ
+axiom   : sv
+expected: 1
+---
+text    : إنَّ مزيّتَ كَ رِجلاَ كَ
+axiom   : pn
+expected: 1
+---
+text    : إنَّ كَ سريعُ ال حركَةِ
+axiom   : pn
+expected: 1
+---
+text    : أَسْتَيقِظُ فِي ال صبَاحِ
+axiom   : sv
+expected: 1
+---
+text    : أتمَلّى بِ جمَالِ ال وُجُودِ
+axiom   : sv
+expected: 1
+---
+text    : بَصُرَ بِ هَا لصٌّ
+axiom   : sv
+expected: 1
+---
+text    : أَجابَ هُ إلى ذلكَ
+axiom   : sv
+expected: 1
+---
+text    : أَحْسَنَ ال خِدمَةَ لَ هُ
+axiom   : sv
+expected: 1
+---
+text    : فَوَّضَ إِلي هِ أمْر هُ
+axiom   : sv
+expected: 1
+---
+text    : كانَتْ ال أَرْضُ خَاويَةً
+axiom   : pn
+expected: 1
+---
+text    : ابْتَسَمْتُ فِي سُخْرِيَةٍ
+axiom   : sv
+expected: 1
+---
+text    : أَبْحَرَ مِنْ مِينائ هَا
+axiom   : sv
+expected: 1
+---
+text    : رَكِبَتْ ال حيواناتُ كلُّ هَا
+axiom   : sv
+expected: 1
+---
+text    : نوحٌ بَنَى ال فُلكَ
+axiom   : sv
+expected: 1
+---
+text    : ال مُلْكُ كُلُّ هُ لِ للهِ
+axiom   : pn
+expected: 1
+---
+text    : كَانَ مَلِكًا صَالِحًا
+axiom   : pn
+expected: 1
+---
+text    : تَمَزَّقَ ال كِتَابُ غِلاَفُ هُ
+axiom   : sv
+expected: 1
+---
+text    : شَجَا نِي ال بُلْبُلُ تَغْرِيدُ هُ
+axiom   : sv
+expected: 1
+---
+text    : ال أَسَدُ أَشرَفُ ال حَيَوانَاتِ
+axiom   : pn
+expected: 1
+---
+text    : دَخَلَ ال مَأْمونُ مُسْرِعًا
+axiom   : sv
+expected: 1
+---
+text    : ال وَرْدُ مَرْفُوعٌ قَدْرُ هُ
+axiom   : pn
+expected: 1
+---
+text    : ال زهُورُ مَخْلُوقَةٌ لِ زِينَة
+axiom   : pn
+expected: 1
+---
+text    : ال صّبْيَةُ فَرِحُونَ بِ ال مَولدِ
+axiom   : pn
+expected: 1
+---
+text    : ال رَّجُلُ ال مُحسِنُ كَرِيمٌ
+axiom   : pn
+expected: 1
+---
+text    : ال صّبْيَةُ كُلُّ هُمْ مَرِحُونَ
+axiom   : pn
+expected: 1
+---
+text    : جاءتْ أمِّ ي حاملةً ال شَّاي
+axiom   : sv
+expected: 1
+---
+text    : ال دُّنيَا ك حالِ هَا لَمْ تَتَغيَّرْ
+axiom   : sv
+expected: 1
+---
+text    : كانَ ال شّيخُ مُهيبًا رهيبًا
+axiom   : pn
+expected: 1
+---
+text    : كانَ وجهُ ه جَهْمًا عَريضًا
+axiom   : pn
+expected: 1
+---
+text    : يتفرع جريدُ ها مِنَ ال قلبِ
+axiom   : sv
+expected: 1
+---
+text    : يتصلَّبُ حتى يصيرَ شوكًا
+axiom   : sv
+expected: 1
+---
+text    : تطلُبُ ال حبَّ فِي ال ربيعِ
+axiom   : sv
+expected: 1
+---
+text    : تحمِلُ ال غناءَ فِي فؤاد هَا
+axiom   : sv
+expected: 1
+---
+text    : ذلك ال خريفُ فِي ال جريدِ
+axiom   : pn
+expected: 1
+---
+text    : رحلَتِ ال طيورُ إلى ال جنوبِ
+axiom   : sv
+expected: 1
+---
+text    : غرَّقتِ ال أمطارُ قاماتِ ال رياحينِ
+axiom   : sv
+expected: 1
+---
+text    : أعادُوا طلاءَ هَا
+axiom   : sv
+expected: 1
+---
+text    : كانَ ال مطرُ يتساقَطُ بِ شدّةٍ
+axiom   : pn
+expected: 1
+---
+text    : سَارَ أمامَ هَا قصْدَ ال رَّعْيِ
+axiom   : sv
+expected: 1
+---
+text    : احتفلَ ال ناسُ لِ شهودِ عيدِ همْ
+axiom   : sv
+expected: 1
+---
+text    : انصرفَ ال ناسُ إلى منازلِ هِمْ
+axiom   : sv
+expected: 1
+---
+text    : أزالَ ال قطعَ واحدةً واحدةً
+axiom   : sv
+expected: 1
+---
+text    : أرجعَ ال قطعَ واحدةً واحدةً
+axiom   : sv
+expected: 1
+---
+text    : ال عرقُ يقطرُ مِنْ ذقنِ هِ
+axiom   : sv
+expected: 1
+---
+text    : كانَ ال قلمُ ناشفًا مِنْ هُ
+axiom   : pn
+expected: 1
+---
+text    : كانتْ تخرُجُ أيّامَ ال حصادِ
+axiom   : pn
+expected: 1
+---
+text    : تغلّبَ ال بردُ عَلَى حرارتِ هِ
+axiom   : sv
+expected: 1
+---
+text    : فوقَ رأْسيْ هُمَا سِراجٌ ضعيفٌ
+axiom   : pn
+expected: 1
+---
+text    : تَسْمَعَانِ ولْوَلَةَ ال رِّيحِ خارجًا
+axiom   : sv
+expected: 1
+---
+text    : أصْبَحَ يعَالِجُ ألَمَ ال مَوْتِ
+axiom   : sv
+expected: 1
+---
+text    : ال طبيبُ يفحصُ هُ
+axiom   : sv
+expected: 1
+---
+text    : ضِياؤ هَا يَملأُ ال قريَةَ بِ ال نّورِ
+axiom   : sv
+expected: 1
+---
+text    : كانَ ال فضاءُ ساكنًا بعيدًا
+axiom   : pn
+expected: 1
+---
+text    : تتسِعُ دائِرتُ هُ بَعْضَ ال أَحْيَانِ
+axiom   : sv
+expected: 1
+---
+text    : لَمْ يَقْدِرْ علَى إِحْكامِ هَا
+axiom   : sv
+expected: 1
+---
+text    : ال إِفْرَاجُ عنْ هُمْ نَصْرٌ لِ ال حَقِيقَةِ
+axiom   : pn
+expected: 1
+---
+text    : انْتَظَرْتُ لَيْلَةَ صَبَاحِ ال غَدِ
+axiom   : sv
+expected: 1
+---
+text    : أَخَذَ يَكتشفُ جَملَ هُ بِ نَفْسِ هِ
+axiom   : sv
+expected: 1
+---
+text    : أَخَذْتُ أُحَرّكُ بِ هَا ال هَوَاءَ
+axiom   : sv
+expected: 1
+---
+text    : كُنْتُ مواظبًا علَى ال تدريبِ
+axiom   : pn
+expected: 1
+---
+text    : أَقَامَ صاحِبُ نَا فِي ال قَاهرَةِ
+axiom   : sv
+expected: 1
+---
+text    : سُجِنْتُ فِي كَهفٍ مظلِمٍ
+axiom   : sv
+expected: 1
+---
+text    : تَتَدَلّى ال أفاعِي مِنْ سَقفِ هِ
+axiom   : sv
+expected: 1
+---
+text    : تَدِبُّ ال حشرَاتُ فِي جنبَاتِ هِ
+axiom   : sv
+expected: 1
+---
+text    : لِ ال شاعِرِ مذَاهبٌ فِي ال حيَاةِ
+axiom   : pn
+expected: 1
+---
+text    : عَاشَرْتُ ال رّجُلَ و صاحِبَت هُ
+axiom   : sv
+expected: 1
+---
+text    : جَاءَ أدمُ يَومَ ال جمعةِ
+axiom   : sv
+expected: 1
+---
+text    : أكَّدَ ال عَالِمَانِ أنْفُس هُمَا ال خَبَرَ
+axiom   : sv
+expected: 1
+---
+text    : جُبْتُ ال مَدِينةَ كُلَّ هَا مُتَجَوِّلاً
+axiom   : sv
+expected: 1
+---
+text    : يَرَا هَا ال حِمَارُ مُقْبِلَةً عَلَي هِ
+axiom   : sv
+expected: 1
+---
+text    : ذكَّرَ نِي سُؤالُ كَ حِكَايةً قرأْتُ هَا
+axiom   : sv
+expected: 1
+---
+text    : صَاحَ ال وَلَدَانِ ال صَّغِيرَانِ طَرَبًا
+axiom   : sv
+expected: 1
+---
+text    : كَانَ يَهْوَى رَمْيَ ال رِّمَاحِ
+axiom   : pn
+expected: 1
+---
+text    : صَبرُ هَا أَحْسَنُ مِنَ ال جَزَعِ
+axiom   : pn
+expected: 1
+---
+text    : ال ضَّعيفُ عَقلًا يُصَدِّقُ ال خُرافَاتِ
+axiom   : sv
+expected: 1
+---
+text    : لَمْ تَكُنْ كَافِلَةً لَ هُ
+axiom   : pn
+expected: 1
+---
+text    : أَخبَارُ ال قُصَّاصِ كَثِيرٌ بَاطِلُ هَا
+axiom   : pn
+expected: 1
+---
+text    : ال ضَّعيفُ عَقلًا يُصَدِّقُ ال خُرافَاتِ
+axiom   : sv
+expected: 1
+---
+text    : قَرَأتُ أَخْبَارًا غَرِيبَةٌ أَحدَاثُ هَا
+axiom   : sv
+expected: 1
+---
+text    : أنَا ال نَّاشِئُ فِي دَولَتِ كَ
+axiom   : pn
+expected: 1
+---
+text    : تَفَقَّدَ ال مَأْمونُ ال عَامِلِينَ بِ دّيوَانِ
+axiom   : sv
+expected: 1
+---
+text    : أَبو كَ أَكْرمُ ال نَّاسِ خَلْقًا
+axiom   : pn
+expected: 1
+---
+text    : حَاوَلَ ال أَمِينُ ال خُرُوجَ مُتَسَتِّرًا
+axiom   : sv
+expected: 1
+---
+text    : مَضَى ال تُجَّارُ إلَى ال سُّوقِ
+axiom   : sv
+expected: 1
+---
+text    : ال جَمَلُ يَصْبِرُ علَى ال عَطَشِ
+axiom   : sv
+expected: 1
+---
+text    : قَادَتْ هُمَا ال أَرْجُلُ إلَى ال جَبَلِ
+axiom   : sv
+expected: 1
+---
+text    : تَنَزَّهَا مُدّةَ أَرْبَعِ سَاعَاتٍ
+axiom   : sv
+expected: 1
+---
+text    : تَوَغَّلَ فِي ال غَابَةِ يَمْشِيَانِ
+axiom   : sv
+expected: 1
+---
+text    : شَرَعَت تَبِيعُ أَثَاثَ ال بَيْتِ
+axiom   : sv
+expected: 1
+---
+text    : اتَّخَذَتِ ال خِيَاطَةَ لِ كَسبِ ال رِّزقِ
+axiom   : sv
+expected: 1
+---
+text    : كَانَتْ تَفْعَلُ هَذَا سِرًّا
+axiom   : pn
+expected: 1
+---
+text    : أَسْمَاعُ نَا مُتَلَهِّفةٌ لِ خُطَى ال رَّجُلِ
+axiom   : pn
+expected: 1
+---
+text    : جاءتْ أختِ ي و جاءَ أخوا يَ
+axiom   : sv
+expected: 1
+---
+text    : جلسنَا نشربُ ال شايَ
+axiom   : sv
+expected: 1
+---
+text    : وَصَلَ ال محفلُ أمَامَ بَيتِ ال عَروسِ
+axiom   : sv
+expected: 1
+---
+text    : كلُّ ال أخبارِ تَنتَشِرُ مِنَ ال عينِ
+axiom   : sv
+expected: 1
+---
+text    : يملأْن اذان هنَّ أخبارًا و أحَاديثَ
+axiom   : sv
+expected: 1
+---
+text    : استغرقَ ال بناءُ كلُّ هُ أربعِينَ سنَةً
+axiom   : sv
+expected: 1
+---
+text    : كانتْ نفسُ ه لا تطيقُ ال إذعانَ
+axiom   : pn
+expected: 1
+---
+text    : إنّ هُ رجلٌ وسيمٌ دونَ شكٍ
+axiom   : pn
+expected: 1
+---
+text    : حاجبَا هُ يقومَانِ أهلّةً فوقَ عيني هِ
+axiom   : sv
+expected: 1
+---
+text    : فِي ظِلِّ كَ تَدِبُّ عواطفُ ال شعراءِ
+axiom   : sv
+expected: 1
+---
+text    : تنفتحُ فِي ال سماءِ و ال نورِ
+axiom   : sv
+expected: 1
+---
+text    : يشتدُّ عند اقترابِ هِ مِنَ ال ثَّمْر
+axiom   : sv
+expected: 1
+---
+text    : أدورُ فِي ال دار ال صغيرَة ال متواضعة
+axiom   : sv
+expected: 1
+---
+text    : أتأمَّلُ ال جدرانَ بحثًا عَنْ بصماتِ هِ
+axiom   : sv
+expected: 1
+---
+text    : كانَ قصفُ ال رّعدِ عنيفًا مدوّيًا
+axiom   : pn
+expected: 1
+---
+text    : أزهرت أشجارُ ال لوزِ و ال تفاحِ
+axiom   : sv
+expected: 1
+---
+text    : أورقت قضبانُ ال حورِ و ال صفصافِ
+axiom   : sv
+expected: 1
+---
+text    : نَظرَ فِي هِ مِنْ عِدّةِ نَوَاحٍ
+axiom   : sv
+expected: 1
+---
+text    : تلتقِط ال سَّنَابِلَ ال متْروكَةَ فِي ال حقلِ
+axiom   : sv
+expected: 1
+---
+text    : هلْ سَمِعْتِ صوْتَ صارِخٍ مُستغيثٍ
+axiom   : sv
+expected: 1
+---
+text    : يُحَرِّكُ رَأسَ هُ
+axiom   : sv
+expected: 1
+---
+text    : يَرْفَعُ منخَرَيْ هِ
+axiom   : sv
+expected: 1
+---
+text    : ال عصافيرُ تُزقزِقُ هنَا و هناكَ
+axiom   : sv
+expected: 1
+---
+text    : يَهْوِي بِ فأْسِ هِ علَى قاعِ ال قناةِ
+axiom   : sv
+expected: 1
+---
+text    : يَرَا هَا مُنْعَكِسَةً علَى مِرْآةِ نَفْسِ هِ
+axiom   : sv
+expected: 1
+---
+text    : ال فَقْرُ شَرْطُ ال جِدِّ و ال كَدِّ
+axiom   : pn
+expected: 1
+---
+text    : كُنَّ يَنْظُرْنَ إلَي هِ فِي صَمْتٍ
+axiom   : pn
+expected: 1
+---
+text    : جَثَمَتْ علَى صَدْرِ هِ هُمومٌ ثِقالٌ
+axiom   : sv
+expected: 1
+---
+text    : بَينِ ي و بَيْنَ ال مَنزِلِ خَطواتٌ
+axiom   : pn
+expected: 1
+---
+text    : خَرجَ ال عمُّ محفوظٌ لِ صيْدِ ال أفاعِي
+axiom   : sv
+expected: 1
+---
+text    : الله يُحْيي ال قُلُوبَ بِ نُورِ ال حكمَةِ
+axiom   : sv
+expected: 1
+---
+text    : تَعَجَّبَ جدِّ ي نَفْسُ هُ مِنَ ال خَبَرِ
+axiom   : sv
+expected: 1
+---
+text    : ال حَيوانَاتُ جَمِيعُ هَا على ظَهْرِ ال فُلْكِ
+axiom   : pn
+expected: 1
+---
+text    : دَعَا ال مَلِكُ اَل وَاسِعُ الْ سُّلْطَانِ رَبَّ هُ
+axiom   : sv
+expected: 1
+---
+text    : رَوَتِ ال أُمُّ حِكَايَةً أَحْدَاثُ هَا طَرِيفَةٌ
+axiom   : sv
+expected: 1
+---
+text    : يَحْكُمُ ال مَدِينَةَ مَلِكٌ وَاسِعُ ال سُّلْطَانِ
+axiom   : sv
+expected: 1
+---
+text    : تَذَكَّرْتُ مَا قَالَ هُ أَحَدُ أَطِبَّائِ نَا
+axiom   : sv
+expected: 1
+---
+text    : كَانَ يُوغرطةُ غُلامًا شَغِفًا بِ ال رِّيَاضَةِ
+axiom   : pn
+expected: 1
+---
+text    : مَعْرِفَةُ ال صَّيَادِ تُسَاعِدُ هُ علَى ال نَّجَاةِ
+axiom   : sv
+expected: 1
+---
+text    : فَرِحَتِ ال مَرأَةُ بِ عَودَةِ زَوجِ هَا سَالِمًا
+axiom   : sv
+expected: 1
+---
+text    : لَمْ يَكُنْ خَوفُ هَا علَي هِ يَسِيرًا
+axiom   : pn
+expected: 1
+---
+text    : ال جَاهِلُ وَلِعَ بِ ال بَاطِلِ وَلَعًا شَدِيدًا
+axiom   : sv
+expected: 1
+---
+text    : رَاحَت ال أُمُّ تَبِيعُ حُليَّ هَا و تُنْفِقُ علَى بَيْتِ هَا و فَتَاتِ هَا حتَّى عَطِلتْ
+axiom   : sv
+expected: 1
+---
+text    : ارْفَعُوا هَذَا ال فَتَى فَوقَ مَرْتَبَتِ هِ
+axiom   : sv
+expected: 1
+---
+text    : تَكَلَّمَ ال فَتَى رَاجِيًا رِضَا ال مَأْمون
+axiom   : sv
+expected: 1
+---
+text    : دَخَلَ ال دّيوَانَ رَجُلٌ مُلْتَفٌ بِ لِثَامٍ
+axiom   : sv
+expected: 1
+---
+text    : هَذِهِ ال بَاقَةُ مَوصنُوعَةٌ فِي إِنَاءٍ
+axiom   : pn
+expected: 1
+---
+text    : إِنَّ ال مُشَبَّهَ بِ ال عُيونِ هُوَ ال نَرجسُ
+axiom   : pn
+expected: 1
+---
+text    : هَذَا ال رَّجُلُ أَكْرَمُ مِنْ صَاحِبِ هِ
+axiom   : pn
+expected: 1
+---
+text    : إِنَّ ال كَرَمَ أَحْسنُ مِنَ ال بُخلِ
+axiom   : pn
+expected: 1
+---
+text    : خَافَ ال أَمِينُ ال إِقَامَةَ فِي قَصرِ هِ
+axiom   : sv
+expected: 1
+---
+text    : مَضَى بِ ي ال دَّلِيلُ إلَى ال فُنْدُقِ
+axiom   : sv
+expected: 1
+---
+text    : فِي كُلِّ جَنَاحٍ غُرَفٌ مُتَلاصِقَة
+axiom   : pn
+expected: 1
+---
+text    : لَمْ تَتَخَلَّفِ ال فَتَاةُ عَنِ ال مَدْرَسَةِ
+axiom   : sv
+expected: 1
+---
+text    : رَأَت أَنَّ هَذَا لَا يَكْفِي
+axiom   : sv
+expected: 1
+---
+text    : ال مُؤَدِّبُ و ال صّبْيَةُ يَنْتَظِرُونَ ال مُحْسِنَ
+axiom   : sv
+expected: 1
+---
+text    : فِي اعْتِقَادِ ي أَنَّ ال مَبْلغَ زَهيدٌ
+axiom   : pn
+expected: 1
+---
+text    : ال صّبْيَةُ جَمِيعُ هُمْ سُعَدَاءُ بِ ال مَوْلِدِ ال نَّبَوِيِّ
+axiom   : pn
+expected: 1
+---
+text    : عَلَى ال صِّبْيَةِ أَنْ يَسْتَعِدُّوا لِ ال مَوْلِدِ
+axiom   : pn
+expected: 1
+---
+text    : مِنَ ال صِّبْيَةِ مَنْ يَسْتَعِدُّ لِ ال إِمْتِحَانِ
+axiom   : pn
+expected: 1
+---
+text    : ال حِكْمَةُ فِي ال صَّبْرِ عَلَى ال مُصَابِ
+axiom   : pn
+expected: 1
+---
+text    : فَرَغَ أبِ ي مِنْ صلات ه  و أوراد هِ
+axiom   : sv
+expected: 1
+---
+text    : على ضوءِ ال فجرِ تحمِلُ ال نّساءُ جِرارَ هُنَّ
+axiom   : sv
+expected: 1
+---
+text    : بَدَأَ بِ إِنشاء هِ ال خليفةُ عبدُ ال رحمانِ ال ناصرِ
+axiom   : sv
+expected: 1
+---
+text    : أنْتَ ال مُعِزُ إلى ال مفكرينَ و ال متأملينَ
+axiom   : pn
+expected: 1
+---
+text    : تنطلقُ ال نخلةُ مِنَ ال أرضِ مستقيمةً جبارةً
+axiom   : sv
+expected: 1
+---
+text    : لَوَتِ ال عواصِفُ أعنَاقَ ال أعشابِ و ال زهورِ
+axiom   : sv
+expected: 1
+---
+text    : كانَ ال برْقُ يُنيرُ لِ ي ال أَزقَّةَ ال مظلمَةَ
+axiom   : pn
+expected: 1
+---
+text    : ال والدةُ تلاحظُ ترتيبَ ال أصنافِ و ال ألوانِ
+axiom   : sv
+expected: 1
+---
+text    : اضمحلّتِ ال ثّلوجُ فِي ال حقولِ و ال مروجِ
+axiom   : sv
+expected: 1
+---
+text    : أصبحت بقايَا هَا تذُوبُ فِي أعالِي ال جبالِ
+axiom   : sv
+expected: 1
+---
+text    : تَعِبَ ال فلاحُ مِنَ ال حياةِ ب جانبِ ال موقدِ
+axiom   : sv
+expected: 1
+---
+text    : كانَ ذلكَ ال نهارُ أخرَ أيّامِ ال صّومِ
+axiom   : pn
+expected: 1
+---
+text    : إِزْدَادَ إِعوجاجًا و سماجةً و عسرًا
+axiom   : sv
+expected: 1
+---
+text    : جَاءَ ال صانعُ الذي وصَفَ ل هُ ال صنعةَ
+axiom   : sv
+expected: 1
+---
+text    : فِي تِلْكَ ال دقيقَةِ تَحَرَّكَتْ ال صَّبِيَّةُ فجْأَةً
+axiom   : sv
+expected: 1
+---
+text    : سَ تَتَجَاذَبُ نِي ال أَحْلامُ ال مخيفَةُ و ال ذكرياتُ ال ألِيمَةُ
+axiom   : sv
+expected: 1
+---
+text    : يُعَبّرُ عَنْ عواطِفٍ أَكثَر مِنْ نَفْسِ
+axiom   : sv
+expected: 1
+---
+text    : ال شّاعِرُ هُو الذي يَشْعُرُ و يُحِسُ
+axiom   : pn
+expected: 1
+---
+text    : إِنْصَرَفَ إلَى مِشْيَتِ هِ الّتِي كَانَ عَلَيْ هَا
+axiom   : sv
+expected: 1
+---
+text    : شَرعُوا فِي ال حديثِ و ال ضحكِ
+axiom   : sv
+expected: 1
+---
+text    : ماذَا فِي ال قَريَةِ مِنْ أَحوالٍ جديدَةٍ
+axiom   : pn
+expected: 1
+---
+text    : أَنْتَظِرُ مِنْ صَاحبِ كَ حَلَّ مسألَةٍ عويصَةٍ
+axiom   : sv
+expected: 1
+---
+text    : وضعْتُ أنَا كتَابَ ال أخْبارِ فِي ال خِزانةِ
+axiom   : sv
+expected: 1
+---
+text    : إِنَّ جَدّتِ ي نَفْسُ هَا لَمْ تُصَدِقِ ال خَبَرَ
+axiom   : pn
+expected: 1
+---
+text    : جَنَى ال فَلّاحُ ال ثِّمَارَ كُلَّ هَا فِي أُسْبُوعٍ
+axiom   : sv
+expected: 1
+---
+text    : صَارَ فَتًى مُبَجَّلاً عِنْدَ جَمِيعِ ال قَوْمِ
+axiom   : sv
+expected: 1
+---
+text    : ال صَّيْدُ رِيَاضَةُ جَدِيرَةٌ بِ ال مُلُوكِ و ال أُمَرَاءِ
+axiom   : pn
+expected: 1
+---
+text    : رَبَطَتْ طَرَفَ ال حَبْلِ بِ ال سِّلْكِ ال حَدِيدِيِّ ال سَّمِيكِ
+axiom   : sv
+expected: 1
+---
+text    : كَانَ زَوجُ هَا قَدْ خَرَجَ يَطْلُبُ ال رِّزْقَ
+axiom   : pn
+expected: 1
+---
+text    : رَكِبَ ال بَحرَ مُغَالِبًا مَوْجَ هُ و ال عَاصِفَةَ
+axiom   : sv
+expected: 1
+---
+text    : نَظَرَ فَيْلسُوفٌ إلَى رَجُلٍ حَسَنٍ وَجْهُ ه
+axiom   : sv
+expected: 1
+---
+text    : وَجَدَ ال مَأْمونُ ال فَتَى جَالسًا جُلوسَ ال ظَّافِرِ
+axiom   : sv
+expected: 1
+---
+text    : إِنَّ ال خَليفَةَ مُحْسنٌ إلَى ال فَتَى ال يَومُ
+axiom   : pn
+expected: 1
+---
+text    : يَسْهَرُ علَى ال خَلِيفَةِ أَشَدُّ ال حُراسِ يَقَظَةً
+axiom   : sv
+expected: 1
+---
+text    : جَنَى علَى ال مَأْمونِ طَمَعُ قُوّادِ هِ فِي هِ
+axiom   : sv
+expected: 1
+---
+text    : ال تعجِيلُ بِ قَتْلِ ال أَمِينِ أَثَارَ غَضَبَ ال مَأْمُونِ
+axiom   : sv
+expected: 1
+---
+text    : دَخَلَتِ ال قَافِلَةُ بَيْنَ صَفَّيْنِ مِنَ ال حُرَّاسِ
+axiom   : sv
+expected: 1
+---
+text    : وَصَلَ ال تّاجِرُ الّذِي تَأَخَّرَ عَنِ ال قَافِلَةِ
+axiom   : sv
+expected: 1
+---
+text    : طاَلَ ال حَدِيثُ بِ ال صَّدِيقَيْنِ فِي ذَلِكَ ال يَومِ
+axiom   : sv
+expected: 1
+---
+text    : إِخْتَرَقَت ال سيَّارةُ ال طُّرُقَ ال جَبَلِيةَ ال كَثِيرةَ ال مُنْعَرَجَاتِ
+axiom   : sv
+expected: 1
+---
+text    : لَمْ يُخَلفْ لِ أُسْرَتِ هِ غَيْرَ ال دَّعَواتِ ال صَّالحَةِ
+axiom   : sv
+expected: 1
+---
+text    : كَانَ الّذي يَنْجُو بِ نِصفِ رِيَالِ هِ سِعِيدًا
+axiom   : pn
+expected: 1
+---
+text    : مِنْ أَفضَلِ ال أَطِبَّاءِ ال مُواظِبُ عَلَى طِبِّ هِ
+axiom   : pn
+expected: 1
+---
+text    : فِي كَلامِ نَاصِعَةً حُبٌّ و صِدْقٌ
+axiom   : pn
+expected: 1
+---
+text    : مِنْ قصورِ ال عربِ فِي قرطبةَ قصرُ ال زهراءِ
+axiom   : pn
+expected: 1
+---
+text    : دقّقتُ ال نظرَ فِي وجهِ هِ و هُو مطرقٌ
+axiom   : sv
+expected: 1
+---
+text    : بينَ طيّاتِ أثْوابِ كَ ال زَرْقاءِ يَسْكُبُ ال محبُّونَ أنفاسَ همْ
+axiom   : sv
+expected: 1
+---
+text    : وشَّحَ ال ضَّبَابُ ال حقولَ و ال مروجَ و ال أوديةَ
+axiom   : sv
+expected: 1
+---
+text    : يبعَثُ أشعَّتَ هُ ال صّفْرَاءَ ال ضَّئيلَةَ إلى قلْبِ ال ظّلْمَةِ
+axiom   : sv
+expected: 1
+---
+text    : خَرَجَتِ ال مرأَةُ و ابنتُ هَا فِي ال ظلاَمِ ال دامِسِ
+axiom   : sv
+expected: 1
+---
+text    : ال رّيحُ مِنْ أَعظَم ال عواملِ ال طّبيعيةِ فِي ال أرضِ
+axiom   : pn
+expected: 1
+---
+text    : ال شّعرُ هُو مجمَلُ عَواطِفِ ال نفْسِ و نَزواتِ هَا
+axiom   : pn
+expected: 1
+---
+text    : فِي نَفسِ ي شيءٌ مِنَ ال شّذُوذِ و ال قرابَةِ
+axiom   : pn
+expected: 1
+---
+text    : إنَّ تُفَّاحَةً وَاحِدَةً لا تُرْفَعُ إلى ال مَلِكِ
+axiom   : pn
+expected: 1
+---
+text    : نَظَرْتُ مَلِيًّا إلَى هَذَا ال صَّبِيّ ال شَاحِبِ ال هَزِيلِ
+axiom   : sv
+expected: 1
+---
+text    : هُوَ مَعْبَدٌ مَحْفُورٌ فِي قَلْبِ صَخْرَةٍ بَيضَاءٍ
+axiom   : pn
+expected: 1
+---
+text    : حَولَ ال قَصرِ حَدِيقَةٌ مَغْروسَةٌ وَردًا و نرجسًا
+axiom   : pn
+expected: 1
+---
+text    : ال خَلِيفَةُ أَشْجَعُ فِي سَاحَةِ ال حَرْبِ مِنْ أَسَدٍ
+axiom   : pn
+expected: 1
+---
+text    : كَانَ أَبِ ي و عَمِّ ي مِنْ فُقَرَاءِ ال حَيِّ
+axiom   : pn
+expected: 1
+---
+text    : لا تزالُ ضاربةً بْيَن آفاقِ ال أرضِ و ال سّماءِ
+axiom   : pn
+expected: 1
+---
+text    : فِي ال قَصْرِ قَاعَةٌ مملوءة وَردًا و قُرُنْفُلا
+axiom   : pn
+expected: 1
+---
+text    : ذاتَ يومٍ كَانَ نَبضِ ي عَاديًّا و خَطواتِ ي عاديّةً
+axiom   : pn
+expected: 1
+---
+text    : فُرِّقَ هذَا ال مَاءُ عَلَى قُصورِ ال مَدينَةِ و مسَاجِد هَا
+axiom   : sv
+expected: 1
+---
+text    : لَمْ يَكُنْ إشفَاقُ خَدِيجَةَ علَى هَذَا ال فَتى قلِيلاً
+axiom   : pn
+expected: 1
+---
+text    : حَلَبُ مَدينَةٌ طَيّبٌ هَوَاؤُ هَا صَحِيحَةٌ تُرْبتُ هَا كَثيرَةٌ خَيراتُ هَا
+axiom   : pn
+expected: 1
+---
+text    : هَذهِ نَكْبتِ ي ال صّامتةُ اّلتي تَجعَلُ نِي حَقيرًا أَمَامَ نَفسِ ي
+axiom   : pn
+expected: 1
+---
+text    : رأسُ هُ ال غزيرُ ال أشيبُ متناسقٌ تمامًا معَ رقبتِ هِ و كتفيْ هِ
+axiom   : pn
+expected: 1
+---
+text    : هاجرَ جدّ ي و هُو شابٌ إلى ال قاهرةِ سعيًا لِ ال رزقِ
+axiom   : sv
+expected: 1
+---
+text    : قَتَلْتُمْ أَبِ ي ال حَسَنَ و عَمِّ ي ال حُسَينَ و زَوْجِ ي مُصْعَبًا
+axiom   : sv
+expected: 1
+---
+text    : سَوفَ أَمُوتُ و أَترُكُ هُ وَحيدًا فِي هَذهِ ال حَياةِ ال قَاسِيةِ
+axiom   : sv
+expected: 1
+---
+text    : كانتْ عينَا هُ تجعلانِ وجهَ هُ أقربُ إلى ال جمالِ منْ هُ إلى ال وسامةِ
+axiom   : pn
+expected: 1
+---
+text    : فِي ذلكَ ال خريفِ مَاتَ جدّ ي و فِي نفسِ هِ شهوةُ ال عِنَبِ
+axiom   : sv
+expected: 1
+---
+text    : عرَّتِ ال أَرْياحُ أشجارَ ال صفصافِ و ال حورِ و ال تّوتِ و ال تفاحِ
+axiom   : sv
+expected: 1
+---
+text    : رَكَّزَتِ ال مَرْأَةُ نَظَرَ هَا عَلَى ال بِنْتِ ال ذَّكِيَّةِ الّتِي كَانَتْ تَرْكُضُ بِ ال سَّاحَةِ
+axiom   : sv
+expected: 1
+---
+text    : سَ يَتَعَرَّفُ ال مُعَلِّمُ علَى ال طِّفْلِ الَّذِي يَتَعَلَّمُ ال حُرُرفَ ال هِجَائِيَّةَ فِي ال جَامِعِ
+axiom   : sv
+expected: 1
+---
+text    : جَلَسَتْ عَلَى حَافةِ ال فِرَاشِ وَ هِي تُمْسِكُ كَّفَ ال رّجُلِ بِ جِوارِ هَا
+axiom   : sv
+expected: 1
+---
+text    : أَبْصَرَ قَاسِمٌ قُبَالَتَ ةُ شَيْخًا بَدِينًا جَالِسًا مُلْتَفًا فِي بُرنُسٍ أَبيضَ نَقِيٍّ
+axiom   : sv
+expected: 1
+---
+text    : نَظَرَ إِلَى أَعْلَى ال دُّرجِ الذِي بَقِيَ عَلَيْ هِ أَنْ يَرْتَقِيَ هُ لِ ال وُصُولِ إِلَى ال دّوْرِ ال ثَّانِيٍ
+axiom   : sv
+expected: 1
+
+---
+text    : جيش ه ال مظفر يتبع ه فرحا مرحا
+axiom   : sv
+expected: 1
+---
+text    : ماتت
+axiom   : sv
+expected: 1
+---
+text    : احضر هم
+axiom   : sv
+expected: 1
+---
+text    : بَكَى
+axiom   : sv
+expected: 1
+---
+text    : تَركَتْ هُ
+axiom   : sv
+expected: 1
+---
+text    : أَنَارتْ هَا
+axiom   : sv
+expected: 1
+---
+text    : نَدْرسُ هُ
+axiom   : sv
+expected: 1
+---
+text    : شَدَّ هَا
+axiom   : sv
+expected: 1
+---
+text    : هبّتْ عاصفةٌ
+axiom   : sv
+expected: 1
+---
+text    : أرسَيتُ فِي هَا
+axiom   : sv
+expected: 1
+---
+text    : أبغض ال موتَ
+axiom   : sv
+expected: 1
+---
+text    : هذا لِ لاستنشاقِ
+axiom   : pn
+expected: 1
+---
+text    : دفعتُ هُ بِ شدةٍ
+axiom   : sv
+expected: 1
+---
+text    : أخذت هَا إغفاءةٌ
+axiom   : sv
+expected: 1
+---
+text    : ذُهلَ حسنٌ
+axiom   : sv
+expected: 1
+---
+text    : أتتْ مذعُورَةً
+axiom   : sv
+expected: 1
+---
+text    : ارفَقْ بِ هِ
+axiom   : sv
+expected: 1
+---
+text    : يَطولُ طريقُ هُ
+axiom   : sv
+expected: 1
+---
+text    : يشتدُّ جوعُ هُ
+axiom   : sv
+expected: 1
+---
+text    : سألَ هُ مسائِلَ
+axiom   : sv
+expected: 1
+---
+text    : حزنتُ لِ مضهرِ هَا
+axiom   : sv
+expected: 1
+---
+text    : يُؤنسُ نِي محضرُ هُ
+axiom   : sv
+expected: 1
+---
+text    : كانَتْ خَفيفةً
+axiom   : pn
+expected: 1
+---
+text    : خلعَ سُترتَ هُ
+axiom   : sv
+expected: 1
+---
+text    : تقدَّمَ نحْو هَا
+axiom   : sv
+expected: 1
+---
+text    : زَفَرَ زفرةً
+axiom   : sv
+expected: 1
+---
+text    : يذهَبُ ال طّعمُ
+axiom   : sv
+expected: 1
+---
+text    : يرتَجفُ قَلبِ ي
+axiom   : sv
+expected: 1
+---
+text    : ال ثعلبُ خوافٌ
+axiom   : pn
+expected: 1
+---
+text    : عَاشَ ثائرًا
+axiom   : sv
+expected: 1
+---
+text    : كنْتُ أعزلً
+axiom   : pn
+expected: 1
+---
+text    : ماتَ جبّارًا
+axiom   : sv
+expected: 1
+---
+text    : أيّتُهَا ال أرضُ
+axiom   : pn
+expected: 1
+---
+text    : هُو ال أفضَلُ
+axiom   : pn
+expected: 1
+---
+text    : هِي ال فُضْلَى
+axiom   : pn
+expected: 1
+---
+text    : هُم ال أفضلونَ
+axiom   : pn
+expected: 1
+---
+text    : هشَّمَ بيضَ هَا
+axiom   : sv
+expected: 1
+---
+text    : قَتَلَ فِراخَ هَا
+axiom   : sv
+expected: 1
+---
+text    : أجْهَدَ هُ ال عَطَشُ
+axiom   : sv
+expected: 1
+---
+text    : ارتَطَمَ فِي هَا
+axiom   : sv
+expected: 1
+---
+text    : ابْنُوا ال مَدَارسَ
+axiom   : sv
+expected: 1
+---
+text    : مَلتقَا نَا غَدًا
+axiom   : pn
+expected: 1
+---
+text    : حَدَّقَ فِي هِ
+axiom   : sv
+expected: 1
+---
+text    : هَذِهِ تَرشَحُ
+axiom   : pn
+expected: 1
+---
+text    : تِلكَ تَنْشُف
+axiom   : pn
+expected: 1
+---
+text    : فِي هَا ال جَزائِرِيُّ
+axiom   : pn
+expected: 1
+---
+text    : جَاءَ ال إسلامُ
+axiom   : sv
+expected: 1
+---
+text    : اقْتَربِي مِنِّ ي
+axiom   : sv
+expected: 1
+---
+text    : قَرُبَ ال غُرُوبُ
+axiom   : sv
+expected: 1
+---
+text    : هُو كَاتِبٌ
+axiom   : pn
+expected: 1
+---
+text    : مَا حَاجتُ كَ
+axiom   : pn
+expected: 1
+---
+text    : مِنْ أَينَ أقْبَلتَ
+axiom   : sv
+expected: 1
+---
+text    : أحبَّ صديقِ ي ال حياةَ
+axiom   : sv
+expected: 1
+---
+text    : غَلاَ فِي حُبِّ هَا
+axiom   : sv
+expected: 1
+---
+text    : أسرفَ فِي بُغضِ هِ
+axiom   : sv
+expected: 1
+---
+text    : كيف يتقِي ال مرضَ
+axiom   : sv
+expected: 1
+---
+text    : جاءَ بِ كتبِ ال حكمةِ
+axiom   : sv
+expected: 1
+---
+text    : هذا لِ تطهيرِ ال حلقِ
+axiom   : pn
+expected: 1
+---
+text    : هذا لِ تتقيةِ ال رئتينِ
+axiom   : pn
+expected: 1
+---
+text    : لَمْ تَرَ فَائدةً
+axiom   : sv
+expected: 1
+---
+text    : صَارَ صَدرُ هَا يرتفعُ
+axiom   : pn
+expected: 1
+---
+text    : بَقِي حسنٌ بِ جانبِ هَا
+axiom   : sv
+expected: 1
+---
+text    : حُملَ إلي نَا غذاؤ نَا
+axiom   : sv
+expected: 1
+---
+text    : هرعَ إلي هِ بِ ال فوطةِ
+axiom   : sv
+expected: 1
+---
+text    : رفعَ هُ على ال دِّكةِ
+axiom   : sv
+expected: 1
+---
+text    : مدَّدَ ه على قفَا هُ
+axiom   : sv
+expected: 1
+---
+text    : شرعَ فِي ال عملِ
+axiom   : sv
+expected: 1
+---
+text    : استَوْزَرَ ملكٌ غلامًا
+axiom   : sv
+expected: 1
+---
+text    : كانَ لِ ي صديقٌ
+axiom   : pn
+expected: 1
+---
+text    : كانَ يروقُ نِي مظهرُ هُ
+axiom   : pn
+expected: 1
+---
+text    : رَفعتْ رأسَ هَا مذعورَةً
+axiom   : sv
+expected: 1
+---
+text    : إنَّ هَا سمكةٌ تعضُّ
+axiom   : pn
+expected: 1
+---
+text    : كانتْ ال نتيجةُ واحدةً
+axiom   : pn
+expected: 1
+---
+text    : إنَّ مشيتِ ي كَ مشيتِ هِ
+axiom   : pn
+expected: 1
+---
+text    : نظراتِ ي أحيانًا كَ نظرات هِ
+axiom   : pn
+expected: 1
+---
+text    : هِي نظراتٌ جامدةٌ
+axiom   : pn
+expected: 1
+---
+text    : صرخَ صرخةَ ال ملدوغِ
+axiom   : sv
+expected: 1
+---
+text    : لَمْ نفهَمْ شيئًا
+axiom   : sv
+expected: 1
+---
+text    : فتَّشَ ال تلاميذُ حولَ هُمْ
+axiom   : sv
+expected: 1
+---
+text    : كانَ ال ثَّعلبُ خائفًا
+axiom   : pn
+expected: 1
+---
+text    : كانَ ال بدرُ ضاحكً
+axiom   : pn
+expected: 1
+---
+text    : ال كلبُ عوّامٌ ماهرٌ
+axiom   : pn
+expected: 1
+---
+text    : إبنُ آوى مهْذارٌ
+axiom   : pn
+expected: 1
+---
+text    : انقادتْ ال كلبةُ مِطْواعَةً
+axiom   : sv
+expected: 1
+---
+text    : أنْتِ ال عَطِرةُ بِ ربيعِ هَا
+axiom   : pn
+expected: 1
+---
+text    : هَا أنَا أنْظُرُ
+axiom   : pn
+expected: 1
+---
+text    :  هُوَ زبدٌ جميلٌ
+axiom   : pn
+expected: 1
+---
+text    : يُصبِحُ أحيانًا جبَّارًا
+axiom   : sv
+expected: 1
+---
+text    : لِ ي صديقٌ طموحٌ
+axiom   : pn
+expected: 1
+---
+text    : يجمعُ لَ هُ نَفَسَ هُ
+axiom   : sv
+expected: 1
+---
+text    : هُو أبلَهُ ال طبْعِ
+axiom   : pn
+expected: 1
+---
+text    : خيرُ ال أمورِ أوسطُ هَا
+axiom   : pn
+expected: 1
+---
+text    : كُنتُ واسِعَ ال حيلَةِ
+axiom   : pn
+expected: 1
+---
+text    : كانَ لِ ال فيلِ مشربٌ
+axiom   : pn
+expected: 1
+---
+text    : وَطِئ عشَّ ال قُّبَرَةِ
+axiom   : sv
+expected: 1
+---
+text    : لِمَ هشَّمْتَ بَيْضِ ي
+axiom   : sv
+expected: 1
+---
+text    : أجَبْنَ هَا إلى ذلكَ
+axiom   : sv
+expected: 1
+---
+text    : ذهَبْنَ إلى ال فِيلِ
+axiom   : sv
+expected: 1
+---
+text    : ملعبُ ال مدرسةِ نظيفٌ
+axiom   : pn
+expected: 1
+---
+text    : مدخلُ ال مدينَةِ واسِعٌ
+axiom   : pn
+expected: 1
+---
+text    : مَصيفُ هُ أَوانُ ال قَيظِ
+axiom   : pn
+expected: 1
+---
+text    : نبَّؤُو نِي بِ رحيلٍ عاجلٍ
+axiom   : sv
+expected: 1
+---
+text    : دَخَلنَ قَاعةَ ال طعامِ
+axiom   : sv
+expected: 1
+---
+text    : عَثَرَتْ علَى بَقِيَّةِ شَمْعَةٍ
+axiom   : sv
+expected: 1
+---
+text    : سُمِّيتْ بِ اسمِ باني هَا
+axiom   : sv
+expected: 1
+---
+text    : فِي هَا أَبنِيَةٌ قديمةٌ
+axiom   : pn
+expected: 1
+---
+text    : لَ هَا مرفَأٌ جيِّدٌ
+axiom   : pn
+expected: 1
+---
+text    : بِ هَا دَيْرٌ مسكُونٌ
+axiom   : pn
+expected: 1
+---
+text    : يَا بَنِي أمّ ي
+axiom   : pn
+expected: 1
+---
+text    : مِنْ أَيْنَ جِئْتَ
+axiom   : sv
+expected: 1
+---
+text    : لا  أغادِرُ مَنزلِ ي
+axiom   : sv
+expected: 1
+---
+text    : هُو مُمْسَا يَ و مُصْبِحِ ي
+axiom   : pn
+expected: 1
+---
+text    : مَكّة مَوْلِدُ ال نَّبِي
+axiom   : pn
+expected: 1
+---
+text    : مَلتقَا نَا أمَامَ ال مَسرَحِ
+axiom   : pn
+expected: 1
+---
+text    : ال عِشْرةُ مِحكّ ال أصْدِقاءِ
+axiom   : pn
+expected: 1
+---
+text    : عَقْلُ ال رّجُلِ مِيزانُ هُ
+axiom   : pn
+expected: 1
+---
+text    : ال مُؤْمِنُ مِرآةُ أَخي هِ
+axiom   : pn
+expected: 1
+---
+text    : نَحصِدُ مَعَ هُ ال قَمْحَ
+axiom   : sv
+expected: 1
+---
+text    : نَحمِلُ هُ إلى ال بيْدَرِ
+axiom   : sv
+expected: 1
+---
+text    : أَرَادَ هُ ال ابنُ سيَّارَةً
+axiom   : sv
+expected: 1
+---
+text    : أَلْقمَ هَا فَكَّيْ ال مِلْزَمَةِ
+axiom   : sv
+expected: 1
+---
+text    : تَنَاولَ مِبْردًا طَويلاً
+axiom   : sv
+expected: 1
+---
+text    : أَركَزَ هُ على ال سّبِيكةِ
+axiom   : sv
+expected: 1
+---
+text    : هِي هادِئةُ ال حَرَكَاتِ
+axiom   : pn
+expected: 1
+---
+text    : كَانَت عَينَا هَا نَجْلاَويْنِ
+axiom   : pn
+expected: 1
+---
+text    : كَادَتْ ال عُنْصُرِيَّةُ تَزولُ
+axiom   : sv
+expected: 1
+---
+text    : ال وطنيَّةُ قيمةٌ ساميةٌ
+axiom   : pn
+expected: 1
+---
+text    : تَحَلَّ بِ رُوح وطنيّةٍ
+axiom   : sv
+expected: 1
+---
+text    : غَزَت ال مدنيّةُ ال بيوتَ
+axiom   : sv
+expected: 1
+---
+text    : أسْلُكْ سُلوكًا مدَنِيًّا
+axiom   : sv
+expected: 1
+---
+text    : لِمَ هذَا ال سّؤَالُ
+axiom   : pn
+expected: 1
+---
+text    : طبرستَانُ مدينةٌ عظيمةٌ
+axiom   : pn
+expected: 1
+---
+text    : درسوا كُتُبَ ال هِند
+axiom   : sv
+expected: 1
+---
+text    : اشتغلوا بِ كتُبِ ال فُرسِ
+axiom   : sv
+expected: 1
+---
+text    : لَمْ تُحسنِ ال سّلُوكَ
+axiom   : sv
+expected: 1
+---
+text    : ال مُتَكآتُ مِنْ سُوريَا
+axiom   : pn
+expected: 1
+---
+text    : انتشَرَ فِي أقطارِ ال أرضِ
+axiom   : sv
+expected: 1
+---
+text    : اتخَذَتْ هُ لَ هَا دِينًا
+axiom   : sv
+expected: 1
+---
+text    : طَافَ ال فَتَى بِ ال جُنَينةِ
+axiom   : sv
+expected: 1
+---
+text    : تَبِعَ ال عجلُ ال بقرةَ
+axiom   : sv
+expected: 1
+---
+text    : حَولَ ال بَيتِ جُنينَةٌ
+axiom   : pn
+expected: 1
+---
+text    : أيُّ رجُلٍ أنَا
+axiom   : pn
+expected: 1
+---
+text    : أمسكَ ال ولدُ ال قَصعَةَ
+axiom   : sv
+expected: 1
+---
+text    : لِ كلِّ شَيءٍ أَوانُ هُ
+axiom   : pn
+expected: 1
+---
+text    : رَفَعَ هَا إلى فَمِ ها
+axiom   : sv
+expected: 1
+---
+text    : ربّا هُ بِ لبَنِ شَاةٍ
+axiom   : sv
+expected: 1
+---
+text    : كانَ طَبقًا لَذيذًا
+axiom   : pn
+expected: 1
+---
+text    : أنَا أبُو عُبيدٍ
+axiom   : pn
+expected: 1
+---
+text    : أَنتَ أبُو زَيدٍ
+axiom   : pn
+expected: 1
+---
+text    : خَفِيَت عل يَّ ال شَّبَكَةُ
+axiom   : sv
+expected: 1
+---
+text    : ال نَّارُ فَاكِهَةُ ال شّتَاءِ
+axiom   : pn
+expected: 1
+---
+text    : اِسقِي ال سّراجَ زيْتًا
+axiom   : sv
+expected: 1
+---
+text    : أَوشَكَ أَنْ يَنْطَفِئَ
+axiom   : pn
+expected: 1
+---
+text    : ضَعِي هِ بِ ال قُربِ مِنْ كِ
+axiom   : sv
+expected: 1
+---
+text    : كاد ال رماد يخفي ها
+axiom   : pn
+expected: 1
+---
+text    : ال مَرجُ مَكسُوٌّ بِ ال عُشبِ
+axiom   : pn
+expected: 1
+---
+text    :  ال مَوقِدُ دُخَانُ هُ مُتصاعِدٌ
+axiom   : pn
+expected: 1
+---
+text    : ال مِدفَأَةُ دُخانُ هَا مُتصاعِدٌ
+axiom   : pn
+expected: 1
+---
+text    : ال حَدِيقَةُ مَكسُوّةٌ بِ ال عُشبِ
+axiom   : pn
+expected: 1
+---
+text    :  ال قِردُ حَيوانٌ قَبيحٌ
+axiom   : pn
+expected: 1
+---
+text    : تَوقّفَ ال رّجُلُ ال شيخُ
+axiom   : sv
+expected: 1
+---
+text    : رِجلاَ هُ مَطويّتَانِ تَحت هُ
+axiom   : pn
+expected: 1
+---
+text    : أخَذَت ال شمسُ تَحمرُّ
+axiom   : sv
+expected: 1
+---
+text    : قَاتَلَ هُ قِتَالا شَديدًا
+axiom   : sv
+expected: 1
+---
+text    : خَدَشَ هُ ال فِيلُ بِ أنيابِ هِ
+axiom   : sv
+expected: 1
+---
+text    : لاَ تَهمُّ نَا أَنْفُسُ نا
+axiom   : sv
+expected: 1
+---
+text    : كَانَ شَيخًا مُعمَّمًا
+axiom   : pn
+expected: 1
+---
+text    : زوجت مريمُ ال صناعَ إبنت هَا
+axiom   : sv
+expected: 1
+---
+text    : لا يهبُّ مِن فراشِ هِ
+axiom   : sv
+expected: 1
+---
+text    : هذا لِ تنظيفِ ال مصرانِ ال دِّقاقِ
+axiom   : pn
+expected: 1
+---
+text    : تهافَتُّ علي هِ مطبَقَ ال شّفتيْنِ
+axiom   : sv
+expected: 1
+---
+text    : كَانَ ال أمرُ هينًا سهلاً
+axiom   : pn
+expected: 1
+---
+text    : هِي تتنفسُ دونَ عناءٍ
+axiom   : sv
+expected: 1
+---
+text    : ثَقلَ لِسانُ هَا عَنِ ال كلاَمِ
+axiom   : sv
+expected: 1
+---
+text    : لَمْ يدرِ مَا يَفعلُ
+axiom   : sv
+expected: 1
+---
+text    : أسرعَ إلى إيقاظِ أختِ هِ
+axiom   : sv
+expected: 1
+---
+text    : وضعَ ال قبقابَ تحتَ قدمي هِ
+axiom   : sv
+expected: 1
+---
+text    : قادَ هُ إلى داخِلِ ال حمّامِ
+axiom   : sv
+expected: 1
+---
+text    : أغطسَ هُ فِي ال حوضِ ب رفقٍ
+axiom   : sv
+expected: 1
+---
+text    : نشَرَ تحتَ هُ فوطةً نظيفَةً
+axiom   : sv
+expected: 1
+---
+text    : عجِبَ مِن هُ عجبًا شديدًا
+axiom   : sv
+expected: 1
+---
+text    : أحبُّ هُ لِ فضلِ هِ و أدبِ هِ
+axiom   : sv
+expected: 1
+---
+text    : ال صّمتُ يكسبُ أهلَ هُ ال حبَّ
+axiom   : sv
+expected: 1
+---
+text    : ال كفرُ خبثٌ لِ نفسِ ال منعمِ
+axiom   : pn
+expected: 1
+---
+text    : ال شكرُ بعثٌ لِ نفسِ ال مُفضِلِ
+axiom   : pn
+expected: 1
+---
+text    : مَشيْتُ مِشيةَ ال مُتنزِّهِ ال مَسحُورِ
+axiom   : sv
+expected: 1
+---
+text    : نَسيتُ ال مَهاوِي و ال صُّخورِ
+axiom   : sv
+expected: 1
+---
+text    : جُلتُ فِي ال مكانِ جولةً
+axiom   : sv
+expected: 1
+---
+text    : هيّا ابتسمْ يا طفلُ
+axiom   : sv
+expected: 1
+---
+text    : بلدةُ ال شّلالاتِ أنيقةٌ رشيقةٌ
+axiom   : pn
+expected: 1
+---
+text    : بلدةُ قوامُ هَا شَارعٌ عضيمٌ
+axiom   : pn
+expected: 1
+---
+text    : تبقى ال سَّمكةُ فِي ال ماءِ
+axiom   : sv
+expected: 1
+---
+text    : ترتجِفُ ال قصبةُ فِي يدِ ي
+axiom   : sv
+expected: 1
+---
+text    : انتزِعُ ال صنارةَ بِ سرعَةِ ال بَرقِ
+axiom   : sv
+expected: 1
+---
+text    : إنَّ هَا ثشبِهُ مِشيتِ ي أحيانًا
+axiom   : pn
+expected: 1
+---
+text    : هنَاكَ قلَّبَ كرّاسًا غليظاً
+axiom   : sv
+expected: 1
+---
+text    : مَنْ مِنْ كُمْ يَعرفُ ال وَطنَ
+axiom   : sv
+expected: 1
+---
+text    : ضحِكَ ال بدْرُ فِي ال سماءِ
+axiom   : sv
+expected: 1
+---
+text    : ضحِكَ ال بدْرُ فِي ال سماءِ
+axiom   : sv
+expected: 1
+---
+text    :  رحلتِ ال وحوشُ عَنِ ال غَيْضة
+axiom   : sv
+expected: 1
+---
+text    : غلبَ ال أسدُ ابنَ آوى
+axiom   : sv
+expected: 1
+---
+text    : مَنْ ضحِكَ يُسمّى ضاحِكًا
+axiom   : sv
+expected: 1
+---
+text    : مَنْ ضحِكَ يُسمّى ضاحِكًا
+axiom   : sv
+expected: 1
+---
+text    : رأى ال بَدرُ ال ثعلبَ ماشيًا
+axiom   : sv
+expected: 1
+---
+text    : أبصرَ ال لَّيثُ ال بدرَ ال ضحوكَ
+axiom   : sv
+expected: 1
+---
+text    : ما عاشَ مسكينًا خائفًا
+axiom   : sv
+expected: 1
+---
+text    : ليسَ لَ هُ أنْ يبخلَ
+axiom   : sv
+expected: 1
+---
+text    : سألتُ ال صّبْيةَ عَنِ ال بحرِ
+axiom   : sv
+expected: 1
+---
+text    : يخرجُ مِنْ ثغرٍ بسّامٍ
+axiom   : sv
+expected: 1
+---
+text    : ال عطِيَّةُ أفضلُ مِنَ ال مَنع
+axiom   : pn
+expected: 1
+---
+text    : ال تَّأنِّي أحسَنُ مِنَ ال عجلةِ
+axiom   : pn
+expected: 1
+---
+text    : ال تَّثبّتُ أسلَمُ مِنَ ال تَّسرُّعِ
+axiom   : pn
+expected: 1
+---
+text    : مُؤدِّبُ نفسِ هِ أفْضلُ رجلٍ
+axiom   : pn
+expected: 1
+---
+text    : حَاتِمُ ال طائيُّ أكرَمُ رجُلٍ
+axiom   : pn
+expected: 1
+---
+text    : تُحَفِّزُ هُ إلى أبعَدِ ال مدارِكِ
+axiom   : sv
+expected: 1
+---
+text    : يوفِّرُ على ذلك همَّ هُ
+axiom   : sv
+expected: 1
+---
+text    : يتحمَّلُ فِي هِ أشَقَّ ال عناءِ
+axiom   : sv
+expected: 1
+---
+text    : شَرُّ ال شَّدائِدِ ما يضحكُ
+axiom   : pn
+expected: 1
+---
+text    : كَانَ يشعُرُ فِي هَا بِ ال غربَةِ
+axiom   : pn
+expected: 1
+---
+text    : كَانَ مِنْ أهزلِ ال ناسِ
+axiom   : pn
+expected: 1
+---
+text    : أقبلَ أعرابِيّ مَعَ هُ جمَلٌ
+axiom   : sv
+expected: 1
+---
+text    : ال شرُّ بيّنٌ فِي وجهِ هِ
+axiom   : pn
+expected: 1
+---
+text    : يا نَسمةَ صيفٍ بحريةٍ
+axiom   : pn
+expected: 1
+---
+text    : أشَدُّ ال فاقَةِ عدمُ ال عقلِ
+axiom   : pn
+expected: 1
+---
+text    : أغنَى ال نَّاسِ أكثرُ هم إحسانًا
+axiom   : pn
+expected: 1
+---
+text    : وَقَعَتْ علَى رَأْسِ هِ بَاكِيَةً
+axiom   : sv
+expected: 1
+---
+text    : انْصَرَفَتْ إلى جَماعَةِ ال طَّيْرِ
+axiom   : sv
+expected: 1
+---
+text    : سَمِعَ ال فيلُ نَقِيقَ ال ضَفادِعِ
+axiom   : sv
+expected: 1
+---
+text    : يشْرَبُ ال فيلُ ال مَاءَ صَباحًا
+axiom   : sv
+expected: 1
+---
+text    : يَشْرَبُ ال فيلُ مِنْ غَديرٍ
+axiom   : sv
+expected: 1
+---
+text    : يَقصِدُ ال فيلُ مَوْرِدَ هُ لِ ال اِرتِوَاء
+axiom   : sv
+expected: 1
+---
+text    : مرْتَعُ ال فيلِ عُشبُ هُ كثِيرٌ
+axiom   : pn
+expected: 1
+---
+text    : مَورِدُ ال فيلِ ماؤُ هُ صافٍ
+axiom   : pn
+expected: 1
+---
+text    : مُنطَلقُ ال قافلةِ بعدَ ساعةٍ
+axiom   : pn
+expected: 1
+---
+text    : مُنقلبُ ال فيلِ عندَ ال غروبِ
+axiom   : pn
+expected: 1
+---
+text    : ال كركيّ طيرٌ محبُوبٌ لِ ال ملوكِ
+axiom   : pn
+expected: 1
+---
+text    : لَ ه مشْتًى و مَصيفٌ
+axiom   : pn
+expected: 1
+---
+text    : مَشْتَا هُ حينَ يشتدُّ ال حرُّ
+axiom   : pn
+expected: 1
+---
+text    : اصطفتِ ال فتياتُ اثنَيْنٍ اثنَيْنٍ
+axiom   : sv
+expected: 1
+---
+text    :  وَضَعَتْ هَا علَى مُتَّكَإِ ال سَّرِيرِ
+axiom   : sv
+expected: 1
+---
+text    : جِنْوَةُ لَ هَا جنَّاتٌ و أَودِيَهٌ
+axiom   : pn
+expected: 1
+---
+text    : بِ هَا مَرسَى جيّدٌ مَأمونٌ
+axiom   : pn
+expected: 1
+---
+text    : هِي على حافَةِ ال بحرِ
+axiom   : pn
+expected: 1
+---
+text    : لَ هَا مِيناءٌ علي هِ سورٌ
+axiom   : pn
+expected: 1
+---
+text    : عَلي هِ ثِيابٌ بِيضٌ رثَّةٌ
+axiom   : pn
+expected: 1
+---
+text    : جَزيرةُ جِربة مَهبطُ ال سُّياحِ
+axiom   : pn
+expected: 1
+---
+text    : أيْنَ ال نَّورجُ مِنَ ال دِّراسةِ
+axiom   : pn
+expected: 1
+---
+text    : ال مُوسَى آلةٌ يُفْلَحُ بِ هَا
+axiom   : pn
+expected: 1
+---
+text    : ذَلكَ ال سَّاعِدُ كَمْ أَوْهَنَ هُ
+axiom   : pn
+expected: 1
+---
+text    : نَطْمِرُ ال بِذارَ خَلْفَ ال وَالِدِ
+axiom   : sv
+expected: 1
+---
+text    : يَمُرُّ ال نسِيجُ بِ غرفَةٍ أُخْرى
+axiom   : sv
+expected: 1
+---
+text    : أَمْسكَ يُوسف بِ سَبيكَةِ ال زِّنكِ
+axiom   : sv
+expected: 1
+---
+text    : سيَّارةٌ لَ هَا كُلُّ ال أَلْوَانِ
+axiom   : pn
+expected: 1
+---
+text    : ال صُّورُ ملوّنةٌ بِ ألوانٍ صَارخةٍ
+axiom   : pn
+expected: 1
+---
+text    : دَخَلَت ال إنسَانِيَّةُ عَهدًا جَديدًا
+axiom   : sv
+expected: 1
+---
+text    : لا تَسْلُك سلُوكًا عُنصُرِيًّا
+axiom   : sv
+expected: 1
+---
+text    : هَلْ أَنتَ مِصْرِيٌّ صَمِيمٌ
+axiom   : pn
+expected: 1
+---
+text    : إنَّ رَأسَ كَ رَأسٌ كُرديٌّ
+axiom   : pn
+expected: 1
+---
+text    : أولُّ مدنِ خُراسانَ ال رَّيُ
+axiom   : pn
+expected: 1
+---
+text    : هِي دارُ خلافةِ ال مأمونِ
+axiom   : pn
+expected: 1
+---
+text    : بَحثُوا فِي كتُبِ ال يونَانِ
+axiom   : sv
+expected: 1
+---
+text    : تَفَشّتْ ال رَّشوةُ بَينَ ال مُوظّفِينَ
+axiom   : sv
+expected: 1
+---
+text    : تَلَقّت هُ مصْرُ لقَاءً حسنًا
+axiom   : sv
+expected: 1
+---
+text    : أسرَعَتْ إليْ هِ إِسرَاعًا شَديدًا
+axiom   : sv
+expected: 1
+---
+text    : هِي مُلتَقَى طُرُقِ ال قَريَةِ
+axiom   : pn
+expected: 1
+---
+text    : إنَّ هُ يَومُ عِيدِ ال فِطرِ
+axiom   : pn
+expected: 1
+---
+text    : تَحمِي أُمُّ ال دّجاجِ فِراخَ هَا
+axiom   : sv
+expected: 1
+---
+text    : حَولَ ال بَيتِ حديقةٌ صغيرةٌ
+axiom   : pn
+expected: 1
+---
+text    : صغَارُ ال طّيرِ لا تطيرُ
+axiom   : sv
+expected: 1
+---
+text    : صغَارُ ال طّيرِ لا تطيرُ
+axiom   : sv
+expected: 1
+---
+text    : غَرسَ أبِ ي شُجيرةَ لوزٍ
+axiom   : sv
+expected: 1
+---
+text    : أعيشُ مُلتصقةً بِ أَديمِ ال أرضِ
+axiom   : sv
+expected: 1
+---
+text    : عادَ جاريًا إلى ال شّجيرَةِ
+axiom   : sv
+expected: 1
+---
+text    : بِ سُرعةٍ مَلأَ هَا ثُمَيراتٍ خَضراءَ
+axiom   : sv
+expected: 1
+---
+text    : فِي لَحظةٍ أَدْركَ ال مطبَخَ
+axiom   : sv
+expected: 1
+---
+text    : أنَا مُشْتَاقٌ إلى أكلِ هَا
+axiom   : pn
+expected: 1
+---
+text    : أخَذَ ال لُّقمَةَ بِ كلتَا يَدَيْ هِ
+axiom   : sv
+expected: 1
+---
+text    : غَمَسَ هَا فِي ال طّبقِ ال مُشتَرَكِ
+axiom   : sv
+expected: 1
+---
+text    : اقْتَرِبِي يَا شَرِيكة حَيَاتِ ي
+axiom   : sv
+expected: 1
+---
+text    : اِجْلِسِي بِ جَانِبِ هَذَا ال مَوقِدِ
+axiom   : sv
+expected: 1
+---
+text    : أَتَى ال لّهَبُ علَى ال حَطَبِ
+axiom   : sv
+expected: 1
+---
+text    : أتَتْ ال نَّارُ علَى ال حَطَبِ
+axiom   : sv
+expected: 1
+---
+text    : اجْلِسْ بِ جانِبِ هَذِه ال نَّارِ
+axiom   : sv
+expected: 1
+---
+text    : اجْلِسْ بِ جانِبِ هذَا ال مَوقدِ
+axiom   : sv
+expected: 1
+---
+text    : شَكَا حَمزَةُ هُمُومَ قَلبِ هِ
+axiom   : sv
+expected: 1
+---
+text    : أَ لاَ تَرَينَ هُ يَبكِي
+axiom   : sv
+expected: 1
+---
+text    : لا تَنظُرِي إلى دُمُوعِ هِ
+axiom   : sv
+expected: 1
+---
+text    : نَهقَ نَهِيقًا أَجهشَ مُمْتَدًا
+axiom   : sv
+expected: 1
+---
+text    : رَفعَ رِجلَ هُ ال خلفيّةَ ال يُسرَى
+axiom   : sv
+expected: 1
+---
+text    : وَقفَ عَلَى حَافةِ حَافِرِ هِ
+axiom   : sv
+expected: 1
+---
+text    : شَاهَدَت ال مَاءَ يَجرِي بِ غزارةٍ
+axiom   : sv
+expected: 1
+---
+text    : عَرفَ ال أَسدُ مِنْ هُم ذَلكَ
+axiom   : sv
+expected: 1
+---
+text    : كانَ ال أعْرَابيُّ أشقَرَ أزْعَرَ
+axiom   : pn
+expected: 1
+---
+text    : أَهْلُ ال مدينَةِ مَرِحونَ مُسْتَبشِرُونَ
+axiom   : pn
+expected: 1
+---
+text    : عَصرُ هُ كانَ عصرَ ال حَجرِ
+axiom   : pn
+expected: 1
+---
+text    : كَيفَ ال سّبيلُ إلى ذَلكَ
+axiom   : pn
+expected: 1
+---
+text    : تَحَادَثَ ال مُسافِرانِ تَزجِيةً لِ ال وَقتِ
+axiom   : sv
+expected: 1
+---
+text    : خمسةُ أشخاصٍ فِي حجرةٍ واحدةٍ
+axiom   : pn
+expected: 1
+---
+text    : تركنا ال حاضرَ ل لذينَ يشغلون ب ال حاضِر
+axiom   : sv
+expected: 1
+---
+text    :  أهملنا مِن ال ماضي قرونا أخرى
+axiom   : sv
+expected: 1
+---
+text    : هذا يغسِلُ بِ هِ يديْ هِ غَسلاً
+axiom   : sv
+expected: 1
+---
+text    : هذا لِ ترويقِ ال كبِدِ و ال كُليتَينِ
+axiom   : pn
+expected: 1
+---
+text    : ال مريضُ دائبٌ على تجرعِ ال أدويةِ
+axiom   : pn
+expected: 1
+---
+text    : مدَّ يد هُ لِ يتناولَ كرّاسَ ال مذكراتِ
+axiom   : sv
+expected: 1
+---
+text    : انتبذْتُ مقعدًا فِي زاويةِ ال غرفةِ
+axiom   : sv
+expected: 1
+---
+text    : لَمْ تَشعرْ بِ ال حاجَةِ إلى تناولِ هِ
+axiom   : sv
+expected: 1
+---
+text    : أخذَ هُ مِنْ يدِ هِ بِ كلِّ تودُّدٍ
+axiom   : sv
+expected: 1
+---
+text    : غَابَ عنْ هُ فترةً مِنَ ال وقتِ
+axiom   : sv
+expected: 1
+---
+text    : أخرجَ هُ مِنَ ال حوضِ بِ كُلِّ حرصٍ
+axiom   : sv
+expected: 1
+---
+text    : دنَا ملكٌ مِنْ شابٍ مجنونٍ
+axiom   : sv
+expected: 1
+---
+text    : أجابَ هُ عنْ جميع هَا بِ أحسنِ جواب
+axiom   : sv
+expected: 1
+---
+text    : أذكُرُ أنّ ي بكيتُ لِ بكاءِ أمِّ ي
+axiom   : sv
+expected: 1
+---
+text    : ال جلوسُ معَ ال إخوانِ سلوٌ لِ ال  أحزانِ
+axiom   : pn
+expected: 1
+---
+text    : عدْتُ أدبُّ إلَى ال طريقِ سالِمًا
+axiom   : sv
+expected: 1
+---
+text    : جَلستُ علَى صخرةٍ جلسةَ ال فزعِ
+axiom   : sv
+expected: 1
+---
+text    : دعَتِ ال دُّنيَا إلى ال غَدرِ دعْوةً
+axiom   : sv
+expected: 1
+---
+text    : أَجابَ إلي هَا عالمٌ و جهولٌ
+axiom   : sv
+expected: 1
+---
+text    : ألقيتُ علَى نَفسِ ي هذَا ال سؤالَ
+axiom   : sv
+expected: 1
+---
+text    : جَلسَ إلى مكتبِ هِ جِلسَةَ ال مُفكرِ
+axiom   : sv
+expected: 1
+---
+text    : سمِعَ أخيرًا طرقَةً هزّت قلبَ هُ
+axiom   : sv
+expected: 1
+---
+text    : أشْرقَ فِي نفسِ ي إشراقَةَ ال أملِ
+axiom   : sv
+expected: 1
+---
+text    : وضَعَ يدَ هُ على عاتقِ هَا بِ رفقٍ
+axiom   : sv
+expected: 1
+---
+text    : ال سّمكةُ يَلتمِعُ بطنُ هَا فِي ال شمسِ
+axiom   : pn
+expected: 1
+---
+text    : جذبَ هُ مِنْ رباط هِ ال أحمرِ جذبةً
+axiom   : sv
+expected: 1
+---
+text    : تشْرِفُ علَى عالمٍ ساكنٍ مجهولٍ
+axiom   : sv
+expected: 1
+---
+text    : سَادتْ فِي قاعةِ ال درسِ سكينَةٌ
+axiom   : sv
+expected: 1
+---
+text    : بقي ال لّفظُ مُعلّقًا فِي ال هواءِ
+axiom   : sv
+expected: 1
+---
+text    : ال مشَّاءُ لا يتعبُ مِنَ ال مَشي
+axiom   : sv
+expected: 1
+---
+text    : كانَ ال أسدُ لِ ال وحوشِ خيرُ مليكٍ
+axiom   : pn
+expected: 1
+---
+text    : إنَّ صخرًا ل والي نَا و سيّد نَا
+axiom   : pn
+expected: 1
+---
+text    : ليسَ لِ ال ملكِ أنْ يكُونَ حقودًا
+axiom   : pn
+expected: 1
+---
+text    : أحقُّ ال ناسِ ب اتقاءِ ال أيْمَانِ ال ملوكُ
+axiom   : pn
+expected: 1
+---
+text    : وقَى الله مِن هَا ال إنسانَ ال حرَّ
+axiom   : sv
+expected: 1
+---
+text    : إنَّ ال عطيّةَ أجمَلُ من ال منعِ
+axiom   : pn
+expected: 1
+---
+text    : كلُّ ال نّاسِ محتاجٌ إلى ال تثبُّتِ
+axiom   : pn
+expected: 1
+---
+text    : ال سّكوتُ أفضلُ مِنَ ال كَلاَمِ أحيانًا
+axiom   : pn
+expected: 1
+---
+text    : خيرُ ال نَّاسِ مَنْ إحتَرمَ غَيرَ هُ
+axiom   : pn
+expected: 1
+---
+text    : يرمِي بِ همّتِ هِ إلى أبْعدِ مَرمَى
+axiom   : sv
+expected: 1
+---
+text    : عَيْنَا هُ أشدُّ زرقَةً مِنَ ال بحرِ
+axiom   : pn
+expected: 1
+---
+text    : لا مالَ أفضَلُ مِن ال عقلِ
+axiom   : pn
+expected: 1
+---
+text    : صَيدُ هُ أعجَبُ مِن جَميعِ ال جَوارِحِ
+axiom   : pn
+expected: 1
+---
+text    : مرَّ ذاتَ يومٍ علَى عادتِ هِ
+axiom   : sv
+expected: 1
+---
+text    : هُوَ الذي حَملَ نِي علَى ذلكَ
+axiom   : pn
+expected: 1
+---
+text    : مرَّ ال فيلُ ذاتَ يومٍ ب ال قُبَّرةِ
+axiom   : sv
+expected: 1
+---
+text    : أَقامَ ال فيلُ فِي أرضٍ معْشَبَةٍ
+axiom   : sv
+expected: 1
+---
+text    : بَاضَت ال قبّرةُ علَى طَريقِ ال فيلِ
+axiom   : sv
+expected: 1
+---
+text    : إجْتَمعَتِ ال ضفادعُ فِي مَهْوى عميقٍ
+axiom   : sv
+expected: 1
+---
+text    : لا أَرَى لِ ي بعْدَ هُ مُنقَلَبَا
+axiom   : sv
+expected: 1
+---
+text    : علَى هذَا ال نَّسَقِ هَبطْنَ ال مَدرَجَ
+axiom   : sv
+expected: 1
+---
+text    : هُناكَ كانَتْ مَتَاجِرُ هُم و مَصانِعُ هُم
+axiom   : pn
+expected: 1
+---
+text    : وصَلتُ إلى ال عَينِ قَبلَ ال مَغِيبِ
+axiom   : sv
+expected: 1
+---
+text    : دَخَلَ فِي مَجلَسِ هِ رَجلٌ غَريبٌ
+axiom   : sv
+expected: 1
+---
+text    : ال صَّيفُ مَهبطُ ال سُّياحِ في تونس
+axiom   : pn
+expected: 1
+---
+text    : ال مِنْسَجُ آلَةٌ تُنسَجُ بِ هَا ال ثِّيَابُ
+axiom   : pn
+expected: 1
+---
+text    : تُغادرُ هَذَا ال شّاطِئَ مَراكبٌ خفيفةٌ
+axiom   : sv
+expected: 1
+---
+text    : رُحنَا نُساعِدُ ال وَالِدَ فِي ال صّيفِ
+axiom   : sv
+expected: 1
+---
+text    : نَصِلُ إلى غُرفةٍ فسيحةٍ لِ ال حياكَةِ
+axiom   : sv
+expected: 1
+---
+text    : يُجَزُّ بِ ال مِجَزِّ ال مِيكانيكيّ الذي يُسوِّي هِ
+axiom   : sv
+expected: 1
+---
+text    : وجَدْنَا هُ وَاقفًا بِ جانِبِ سَيّارَتِ هِ ال خَّاصَةِ
+axiom   : sv
+expected: 1
+---
+text    : كَانَ يُذيعُ مُلَخَّصًا لِ أنباءِ ال نَّشرةِ
+axiom   : pn
+expected: 1
+---
+text    : تَرتدِي ال ثّيَابَ ال دِّمَشْقِيَّةَ ال مُطرَّزَةَ بِ ال قَصَبِ
+axiom   : sv
+expected: 1
+---
+text    : تتَحَلَّى بِ أَنْفَسِ ال يَاقُوتِ و ال زَّبَرْجَدِ
+axiom   : sv
+expected: 1
+---
+text    : كَانَت ال زوجةُ امرأةً مَمشُوقةَ ال قامَةِ
+axiom   : pn
+expected: 1
+---
+text    : فِي يَد هَا أَسْوِرَة مِنْ ذَهَبٍ
+axiom   : pn
+expected: 1
+---
+text    : حَقّقَ ال فكْرُ ال إنْسَانِيُّ تَقَدّمًا كَبِيرًا
+axiom   : sv
+expected: 1
+---
+text    : هِي آخِرُ ال جبالِ مِن خُرَاسان
+axiom   : pn
+expected: 1
+---
+text    : إلَي هَا يُنْسَبُ مِنَ ال رِّجَال ال رَّازيُ
+axiom   : sv
+expected: 1
+---
+text    : لَمْ تُقِمْ ال عَدلَ مَعَ ال أفَارقةِ
+axiom   : sv
+expected: 1
+---
+text    : ال مَوائِدُ ال خشبيَّةُ ال منقُوشَةِ مِنْ تلمْسَانَ
+axiom   : pn
+expected: 1
+---
+text    : إنَّ ال عِلمَ غَيّرَ نِظَامَ ال حَيَاةِ
+axiom   : pn
+expected: 1
+---
+text    : هَل جَعلَ هَا ذَلكَ أُمّةً شَرقيّةً
+axiom   : sv
+expected: 1
+---
+text    : تُعتَبرُ ال سَّاحةُ ال صّغِيرَةُ صُرَّةَ ال بَلَدِ
+axiom   : sv
+expected: 1
+---
+text    : مَا أقلَّ حظِ ي بَينَ ال رّيَاحِينِ
+axiom   : pn
+expected: 1
+---
+text    : فِي ال قَلبِ بُطيْنَان و أُذَيْنَانِ
+axiom   : pn
+expected: 1
+---
+text    : كُنْتُ قُبَيْلَ ال مَوْتِ أَسْتَعْظِم ال نَّوَى
+axiom   : pn
+expected: 1
+---
+text    : سَقَيْتُ ال سّرَاجَ الذي كادَ ينْطفِئُ
+axiom   : sv
+expected: 1
+---
+text    : سَقَيْتُ ال أَرضَ التي كَادتْ تَجفُّ
+axiom   : sv
+expected: 1
+---
+text    : سَقَيْتُ ال سّرَاجَ الذي كادَ ينْطفِئُ
+axiom   : sv
+expected: 1
+---
+text    : مَرأَى ال جوِّ يُحزِنُ ال نَّفْسَ ال تائِهَةَ
+axiom   : sv
+expected: 1
+---
+text    : مَرأَى ال جوِّ يُحزِنُ ال قَلبَ ال تّائِهَ
+axiom   : sv
+expected: 1
+---
+text    : أَصْغَت هِنْدُ إلى شَكْوَى زَوجِ هَا
+axiom   : sv
+expected: 1
+---
+text    : ال دُبُّ حَيَوَانٌ جَسيمٌ يُحِبُّ ال عُزلَةَ 
+axiom   : pn
+expected: 1
+---
+text    : كُنَّا نَسِيرُ فِي ال صّحرَاءِ ال واسِعَةِ
+axiom   : pn
+expected: 1
+---
+text    : كُنْتُ مُولَعًا بِ ال رّسمِ ثُمّ بِ ال مُوسِيقَى
+axiom   : pn
+expected: 1
+---
+text    : كَانَ فِي ال حَديقَةِ بَنَفسَجَاتٌ جَميلاَتٌ
+axiom   : pn
+expected: 1
+---
+text    : تَوكّأَ بِ يدِ هِ ال يُمنَى عَلى عَصا هُ
+axiom   : sv
+expected: 1
+---
+text    : اسْتَنَدَ بِ يَد هِ ال يُسرى إلى ال حَائطِ
+axiom   : sv
+expected: 1
+---
+text    : أنَا أرِيدُ أَنْ أَبيعَ ال ثّورَ
+axiom   : sv
+expected: 1
+---
+text    : أَقَامَ ال أسَدُ و ال جملُ مَع هُ
+axiom   : sv
+expected: 1
+---
+text    : أَصَابَ هُ جُوعٌ شَدِيدٌ و هُزالٌ
+axiom   : sv
+expected: 1
+---
+text    : كَانَ أَهْالُ ال مَدينَةِ أَحْسنَ دَرجَاتٍ
+axiom   : pn
+expected: 1
+---
+text    : مُنذُ ال لّحظَاتِ ال أُولى شَعُرتُ بِ ال غُربَةِ
+axiom   : sv
+expected: 1
+---
+text    : تتفرّعُ مِنَ ال مَيدَانِ شوارعٌ كبيرةٌ
+axiom   : sv
+expected: 1
+---
+text    : أُحسَّ بِ دبِيبِ أقدامِ هَذِهِ ال أطْيَافِ
+axiom   : sv
+expected: 1
+---
+text    : تَقطّعَت أَسبَابُ ال تّوَاصِلِ و ال اندِمَاجِ
+axiom   : sv
+expected: 1
+---
+text    : يُثْرِي نَا بِ مَا يَحْتَوِي هِ مِنَ ال مَعَارِفِ
+axiom   : sv
+expected: 1
+---
+text    : يُدفِئُ نَا بِ حَرارَةِ مَشاعِرِ مَنْ فِي هِ
+axiom   : sv
+expected: 1
+---
+text    : صاحِبُ نَا دائِبٌ على تَجرّعِ ال أَدويَةِ
+axiom   : pn
+expected: 1
+---
+text    : حاجةُ مَنْ عَاشَ لاَ تَنقَضِي
+axiom   : sv
+expected: 1
+---
+text    : تَماوتَ ال ثعلَبُ لِ يَنْجُوَ مِنَ ال صّيادِ
+axiom   : sv
+expected: 1
+---
+text    : في ال ليلة ال ثّانية جاء ني ب مثل ذلك
+axiom   : sv
+expected: 1
+---
+text    : كانَتْ ال أيام ال أولى بعد ال سفرِ شقيةً
+axiom   : pn
+expected: 1
+---
+text    : أرسلتُ ثلاثةً من أصحاب ي ل استكشافِ ال مكانِ
+axiom   : sv
+expected: 1
+---
+text    : سبيلُ ال موتِ فِي ال عادةِ هُوَ ال مرضُ
+axiom   : pn
+expected: 1
+---
+text    : راحَ يذكرُ ال أحداثَ التي لَم يسجل هَا
+axiom   : sv
+expected: 1
+---
+text    : أراد حسنٌ أَنْ يُناولَ أمَّ هُ ال دّواءَ
+axiom   : sv
+expected: 1
+---
+text    : جاءَ بِ هِ إلى حوضِ ال ماءِ ال دافئ
+axiom   : sv
+expected: 1
+---
+text    : أخذَ هُ إلى ركنٍ مِنْ أركانِ ال حمامِ
+axiom   : sv
+expected: 1
+---
+text    : أنَا ال يومَ أشقَى بِ ال مشيبِ و وهنِ هِ
+axiom   : sv
+expected: 1
+---
+text    : لا أذكُرُ أنّ ي حزِنتُ لِ موتِ خَال ي
+axiom   : sv
+expected: 1
+---
+text    : منْ حسدَ ال نّاسَ بدَأَ يضرُّ نفسَ هُ
+axiom   : sv
+expected: 1
+---
+text    : أتأمَّلُ مدارجَ ال جبلِ الذي هبطتُ مِنْ هُ
+axiom   : sv
+expected: 1
+---
+text    : إنّ ال مبادرةَ تتمثّلُ فِي هِذه ال تغيراتِ
+axiom   : pn
+expected: 1
+---
+text    : عادَ ال دّمُ يجْري إلى وجهِ ال فَتَى
+axiom   : sv
+expected: 1
+---
+text    : هُمْ لاَ يقْتلونَ مَنْ يفعَلُ فِعلةَ ال مُستأسِرِ
+axiom   : sv
+expected: 1
+---
+text    : ما شربْتُ شَربةً حتّى أغمِي عَلَى ي
+axiom   : sv
+expected: 1
+---
+text    : رأى ال ثعلب يمشِي خِلسَةً بين ال دَّوالِي
+axiom   : sv
+expected: 1
+---
+text    : هؤلاءِ سباعٌ ضاريةٌ و كلابٌ عاويةٌ
+axiom   : pn
+expected: 1
+---
+text    :  مازالتْ تِلكَ ال نفسُ التي عرفتُ هَا بِ ال أمسِ 
+axiom   : pn
+expected: 1
+---
+text    : لاحَتْ نجومُ ال ليلِ فِي أفقِ ال قطْرِ
+axiom   : sv
+expected: 1
+---
+text    : خَرجتُ و قد أرخَى ال ظلامُ سدولَ هُ
+axiom   : sv
+expected: 1
+---
+text    : ال إقدامُ علَى ال عَملِ أفضلُ مِنَ ال تّراخِي عَنْ هُ
+axiom   : pn
+expected: 1
+---
+text    : كانَ أحدُ ال فُرسَانِ ال أربعةِ أنْشَطَ خيالاً
+axiom   : pn
+expected: 1
+---
+text    : إنَّ ال مرءَ جديرٌ أَنْ يصنَعَ ال مَعروفَ
+axiom   : pn
+expected: 1
+---
+text    : صارتْ لِ ي مَنزِلةٌ بَينَ هؤلاءِ ال صّبيَانِ
+axiom   : sv
+expected: 1
+---
+text    : تتَّخِذُ ال طيورُ ال مهاجرةُ ال بلدانَ ال حَارّةَ موطِنًا
+axiom   : sv
+expected: 1
+---
+text    : تَعُودُ ال طُيورُ إلى أوكَارِ هَا فِي ال مَسَاءِ
+axiom   : sv
+expected: 1
+---
+text    : لَمْ يهْتَدِ ال فيلُ إلى مجرَى ال مَاءِ
+axiom   : sv
+expected: 1
+---
+text    : كانَ يقصدُ عملَ هُ قبلَ مطلعِ ال شّمسِ
+axiom   : pn
+expected: 1
+---
+text    : لَ هَا مِيناءٌ حسنٌ مُفضّلٌ علَى غيرِ هِ
+axiom   : pn
+expected: 1
+---
+text    : كَانَ مِنْ أَفقَرِ ال أَحْياءِ و أقذَرَ هَا
+axiom   : pn
+expected: 1
+---
+text    : كَانَ إخوان نَا ال مهاجرُونَ يفتِّشُونَ عَنِ ال ثّرَواتِ
+axiom   : pn
+expected: 1
+---
+text    : عَادَ قَدُّورٌ مِنْ عَمَلِ هِ فِي ال حَقْلِ
+axiom   : sv
+expected: 1
+---
+text    : هُو على مَوعِدٍ دَائِم فِي ال مَراحِ
+axiom   : pn
+expected: 1
+---
+text    : كَانَ كثيرًا ما ينْزَوي عَنْ أَقْرانِ هِ
+axiom   : pn
+expected: 1
+---
+text    : إنَّ ال آلاتِ ال زِّراعيّةَ تقدَّمتْ تقدُّمًا عَظِيمًا
+axiom   : pn
+expected: 1
+---
+text    : أ تَمْتَطِي طيَّارةً تَطيرُ فِي ال جوِّ ال فَسيحِ
+axiom   : sv
+expected: 1
+---
+text    : لِمَاذَا لَمْ يُطْلِقُوا ال صَّاروخَ حتَّى ال آنَ
+axiom   : sv
+expected: 1
+---
+text    : كَانَت جِبالُ خميرٍ مَنْثُورَةً أَمَامَ ال سيّارَةِ
+axiom   : pn
+expected: 1
+---
+text    : كانَتْ زَوجَتِ ي آسيَا إمْرأةً مَمْشُوقَةَ ال قَامَةِ
+axiom   : pn
+expected: 1
+---
+text    : ألْقَتِ ال مرأةُ نظرَاتِ هَا علَى ال صُّورِ ال متشعِّبةِ
+axiom   : sv
+expected: 1
+---
+text    : أُسرَةُ أَبِ ي مِن أُسرَةٍ فِلاحيَّةً مِصريَّةً
+axiom   : pn
+expected: 1
+---
+text    : كَانَ ال سّيدُ رُوبَنْسُنْ يُحْسِنُ ال لغَةَ ال عَربِيَّةَ
+axiom   : pn
+expected: 1
+---
+text    : مِنْ هَا خَرَجَ أَبُو مُسلِمٍ صَاحِبُ ال دّعوَةِ
+axiom   : sv
+expected: 1
+---
+text    : صَارُوا عُلماءَ زمانِ هم فِي عُلومِ ال فلسَفةِ
+axiom   : sv
+expected: 1
+---
+text    : مَنْ هُمُ ال متزّوجُونَ مِن نساءٍ أروبيّاتٍ
+axiom   : pn
+expected: 1
+---
+text    : كَانَ ال لّقَاءُ حَولَ مَدينةِ سبيطلةَ نَفْسِ هَا
+axiom   : pn
+expected: 1
+---
+text    : جاءَ أوّلُ جيشٍ إسْلاميٍّ لِ يُنقِذ ال أفَارقة
+axiom   : sv
+expected: 1
+---
+text    : هل أَخرَجَ هَا ذَلكَ عَن عَقليتِ ها ال أُولَى
+axiom   : sv
+expected: 1
+---
+text    : إنَّ ال سَّاحَةَ تَنقَلِبُ إلى بُستَانٍ جَميلٍ
+axiom   : pn
+expected: 1
+---
+text    : تَوَقّفَ مَبهُورًا أَمَامَ شُجَيرَةِ فُلفُلٍ زاهيةٍ
+axiom   : sv
+expected: 1
+---
+text    : مَا هكذَا تُؤخذُ ال لُّقمةَ يَا بُنَيَّ
+axiom   : pn
+expected: 1
+---
+text    : لاَ تَدعِي ال ثُّلُوجَ ال بَيْضَاءَ تَفْصِلُ بَيْن نَا
+axiom   : sv
+expected: 1
+---
+text    : أُذُنِ ي تَعِبتْ مِنْ تَأوُّهِ ال رّيحِ ال غَضبَى
+axiom   : sv
+expected: 1
+---
+text    : تَمَلمَلَ حِمَارُ حسينٍ ال تّاجرِ فِي وَقفَتِ هِ
+axiom   : sv
+expected: 1
+---
+text    : كَانَ صورَةً مُجسّمةً لِ ال كِبريَاءِ و ال غَطرسةِ
+axiom   : pn
+expected: 1
+---
+text    : كانَتْ تتَأَلّفُ مِنْ مُوظّفِينَ فِي ال دَّوَاوينِ
+axiom   : pn
+expected: 1
+---
+text    : طَابَ لِ ي ال مُقامُ فِي هَذَا ال بَلَدِ
+axiom   : sv
+expected: 1
+---
+text    : لَقيتُ ل أوّل مرّةٍ رجلاً يَعتزُّ بِ نَفسِ هِ
+axiom   : sv
+expected: 1
+---
+text    : تحفُّ بِ جوانِب ال شّوَارعِ ال عَمَائرِ و ال أَشجارِ
+axiom   : sv
+expected: 1
+---
+text    : هَذِهِ صُفُوفٌ مِنَ ال بُيوتِ و ال قُصورِ
+axiom   : pn
+expected: 1
+---
+text    : أمر ال غلام ب احضار ال رجال ل يحملو ها لِ ظاهر ال مدينة
+axiom   : sv
+expected: 1
+---
+text    : طلبوا مِن ال قاضِي عشرةَ دراهمَ أجرةَ حملِ هَا
+axiom   : sv
+expected: 1
+---
+text    : طلبوا مِن ال قاضِي عشرةَ دراهمَ أجرةَ حملِ هَا
+axiom   : sv
+expected: 1
+---
+text    : مكثتُ عشرَ ليالٍ و أنا على هذه ال حالةِ
+axiom   : sv
+expected: 1
+---
+text    : ل أوّل مرة شَعر محسن بِ سوء تلكَ ال معيشةِ
+axiom   : sv
+expected: 1
+---
+text    : ألغينا مِن ال ماضي ثلاثة و عشرين قرنا
+axiom   : sv
+expected: 1
+---
+text    : قلّبَ ال أوراقَ ال أولى و هُو يشعرُ ب ال إسترخاءِ
+axiom   : sv
+expected: 1
+---
+text    : دخلَ حانِقًا و هُو يُدمدمُ بِ شتائمَ غامضةٍ
+axiom   : sv
+expected: 1
+---
+text    : ذَهبتْ صالِحةٌ و أحمدُ إلى ال غرفةِ ال أخرَى
+axiom   : sv
+expected: 1
+---
+text    : وجد هُ ذا رأيٍ صائبٍ و فهمٍ رحيبٍ
+axiom   : sv
+expected: 1
+---
+text    : لَمْ أقِمْ فِي ال رّيفِ إلا إقامةً واحدةً
+axiom   : sv
+expected: 1
+---
+text    : ولّدَ فِي حياتِ ي معانِي ال إستمرارِ و ال خُلُود
+axiom   : sv
+expected: 1
+---
+text    : حزَّ فِي نفسِ هِ أنّ هُ لَمْ يودّعْ أختَ هُ
+axiom   : sv
+expected: 1
+---
+text    : لا تزالُ حيّةً بَعدَ مضيّ نصفِ قرنٍ
+axiom   : sv
+expected: 1
+---
+text    : إذا ب ال طُّعمِ الذي كانَ علي هَا قدْ اخْتفَى
+axiom   : pn
+expected: 1
+---
+text    : أشرفَ ال بدرُ على ال غابةِ فِي إحدَى ال ليالي
+axiom   : sv
+expected: 1
+---
+text    : إنَّ هُ أقلُّ ال ناس عذرًا في تخوفِ ال فقرِ
+axiom   : pn
+expected: 1
+---
+text    : نجمعُ أصدافَ هُ ال فارغةَ لِ نزيّنَ بِ هَا قصورَ ال رّمالِ
+axiom   : sv
+expected: 1
+---
+text    : فِي فصلِ ال رّبيعِ يكونُ ال هواءُ أكثرَ إعتدالاً
+axiom   : pn
+expected: 1
+---
+text    : كَانَ ال مَأمُونُ جَالسًا مَعَ ال فقَهَاءِ و ال مُتَكَلّمِينَ
+axiom   : pn
+expected: 1
+---
+text    : ال مراكبٌ مُحمَّلةٌ حبَالاً و شِباكًا و قَصبًا
+axiom   : pn
+expected: 1
+---
+text    : أَ مَا يزَالُ ضَوْؤُ هُم مِنْ مِصْبَاحِ ال بترُول
+axiom   : sv
+expected: 1
+---
+text    : بَيْنَ هَا و بَيْنَ بَغدادَ مَسيرةُ سِتةِ أَشهُرٍ
+axiom   : pn
+expected: 1
+---
+text    : أَثقَلت كاهِلَ هُم ب ال ضرائِبِ ال مَشرُوعَةِ و غَير ال مشروعَةِ
+axiom   : sv
+expected: 1
+---
+text    : أثاثُ ال صَّالونِ لَمْ يَكُنْ مِنْ فنٍّ واحِدٍ
+axiom   : pn
+expected: 1
+---
+text    : ال سُّرُرُ ال خَشبيَّةُ ال مَنقوشَةُ كَانَت مِنْ فَنٍّ مغرييٍّ
+axiom   : pn
+expected: 1
+---
+text    : أَخرجَ ال عالمَ مِنَ ال هَمَجيّةِ إلى ال حَضارَةِ ال مُشرِقَةِ
+axiom   : sv
+expected: 1
+---
+text    : غَابَت شَمسُ ذَلِكَ ال نّهَارِ فِي طَيَّاتِ ال أَبَديَّةِ
+axiom   : sv
+expected: 1
+---
+text    : لا تَسَلْ عَن ال أمْوالِ التي تَتَدَفّقُ عَليْ هِ
+axiom   : sv
+expected: 1
+---
+text    : كَانَ طِفلٌ يَصيدُ ال عَصافِيرَ فِي يَومٍ بَارِدٍ
+axiom   : pn
+expected: 1
+---
+text    : لَمْ يَجرِ بَيْنَ ال فَتَاتيْنِ حَديثٌ ذُو بَالٍ
+axiom   : sv
+expected: 1
+---
+text    : كَانُوا يأكُلُونَ مِنْ فَضَلاتِ ال أَسدِ و طَعَامِ هِ
+axiom   : pn
+expected: 1
+---
+text    : ال حُرّيةُ عَلى ال أَبْوابِ فِي هَذَا ال صّحنِ ال عتِيقِ
+axiom   : pn
+expected: 1
+---
+text    : كان ل بعض ال قضاة بغلة تأكل من قشور ال باذنجان
+axiom   : pn
+expected: 1
+---
+text    : لما رأيت ذلك دخلت علي ه في ال يوم ال عاشر
+axiom   : sv
+expected: 1
+---
+text    : حَملَت نَا بعدَ تسعةِ أيامٍ بِ ليالي هَا إلى جزيرةِ ال نسيانِ
+axiom   : sv
+expected: 1
+---
+text    : لما رأتْ أمّ هَا على تِلكَ ال حالةِ بادرتْ بِ ال خروجِ
+axiom   : sv
+expected: 1
+---
+text    : لَمْ يكُنْ هذَا ال صبي يُديمُ ال نظَرَ إلى ال أغنَامِ
+axiom   : pn
+expected: 1
+---
+text    : نَنْقُلُ هُ علَى ظَهرِ حِمارَتِ نا إلى ال بَيتِ فِي ال ضّيعَةِ
+axiom   : sv
+expected: 1
+---
+text    : كَانَت صَفَّارَةُ ال خَطَرِ تُطْلَقُ فِي ال حَربِ ال عَالميةِ ال ثانيةِ
+axiom   : pn
+expected: 1
+---
+text    : كنَّا نَطيرُ طيرَ ال حَمَامِ ال بَيْضَاءِ فِي افَاقِ ال سّمَاءِ
+axiom   : pn
+expected: 1
+---
+text    : ال حُرّيةُ تدعُو نِي إلى ال خرُوج مِنْ هَذِهِ ال حَلَقَةِ ال مُفرَغَةِ
+axiom   : sv
+expected: 1
+---
+text    : إنَّ ال رّجُوعَ عن ال صَّمتِ أحسنُ مِنَ ال رّجُوعِ عنِ ال كلامِ
+axiom   : pn
+expected: 1
+---
+text    : منْ هُو أَوّل رجلٍ سودانيٌّ تَزوجَ مِن امرأةٍ انقليزيةٍ
+axiom   : sv
+expected: 1
+---
+text    : وَقفَ ال رّجُلُ أمَامَ مشْهَدِ ال فتاةِ وقْفةَ ال كريمِ الذي تُؤلمُ هُ مناظِر ال بؤسِ
+axiom   : sv
+expected: 1
+
